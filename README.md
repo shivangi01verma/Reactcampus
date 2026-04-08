@@ -33,8 +33,8 @@ A full-stack college discovery and comparison platform built with React, Node.js
 ### Installation
 
 ```bash
-git clone https://github.com/avinrique/reactcampus.git
-cd reactcampus
+git clone https://github.com/shivangi01verma/Reactcampus.git
+cd Reactcampus
 npm install
 cd client && npm install && cd ..
 ```
