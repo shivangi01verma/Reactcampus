@@ -1,0 +1,281 @@
+═══════════════════════════════════════════════════════════════
+  ReactCampus API Test Report
+  Generated: 2026-02-19T23:38:37.894Z
+  Run ID: mlu3qtmz
+═══════════════════════════════════════════════════════════════
+
+┌─────────────────────────────┬────────┬────────┬────────┐
+│ Suite                       │ Passed │ Failed │ Total  │
+├─────────────────────────────┼────────┼────────┼────────┤
+│ PASS Health Check           │      1 │      0 │      1 │
+│ PASS Auth                   │     13 │      0 │     13 │
+│ PASS RBAC                   │     16 │      0 │     16 │
+│ PASS Users                  │      8 │      0 │      8 │
+│ PASS Categories             │      4 │      0 │      4 │
+│ PASS Colleges               │      7 │      0 │      7 │
+│ PASS Courses                │      6 │      0 │      6 │
+│ PASS Exams                  │      5 │      0 │      5 │
+│ PASS Content Sections       │      5 │      0 │      5 │
+│ PASS Forms                  │      6 │      0 │      6 │
+│ PASS Submissions            │      8 │      0 │      8 │
+│ PASS Leads                  │     37 │      0 │     37 │
+│ PASS Reviews                │      5 │      0 │      5 │
+│ PASS Discussions            │      4 │      0 │      4 │
+│ PASS SEO                    │      4 │      0 │      4 │
+│ PASS Pages                  │      5 │      0 │      5 │
+│ PASS Dashboard              │      6 │      0 │      6 │
+│ PASS Site Settings          │      2 │      0 │      2 │
+│ PASS Public Routes          │     29 │      0 │     29 │
+│ PASS Edge Cases             │      7 │      0 │      7 │
+│ PASS Cleanup                │     21 │      0 │     21 │
+├─────────────────────────────┼────────┼────────┼────────┤
+│ TOTAL                       │    199 │      0 │    199 │
+└─────────────────────────────┴────────┴────────┴────────┘
+
+
+DETAILED RESULTS
+─────────────────────────────────────────────────────────────────
+
+── Health Check ──
+  ✓ GET /health returns 200
+
+── Auth ──
+  ✓ Register new user
+  ✓ Register returns tokens
+  ✓ Duplicate register rejected (409)
+  ✓ Validation error on register
+  ✓ Admin login
+  ✓ Login returns tokens
+  ✓ GET /auth/me returns profile
+  ✓ Me includes permissions array
+  ✓ Refresh token
+  ✓ Change password
+  ✓ Login with new password
+  ✓ Update profile
+  ✓ Logout
+
+── RBAC ──
+  ✓ List permissions
+  ✓ List roles
+  ✓ 4 seeded roles exist
+  ✓ super_admin role found
+  ✓ Get role by ID
+  ✓ Create custom role
+  ✓ Update role
+  ✓ Assign permissions to role
+  ✓ Create limited user
+  ✓ Assign role to user
+  ✓ Login as limited user
+  ✓ Limited user can read colleges
+  ✓ Limited user blocked from creating colleges
+  ✓ Limited user blocked from listing users
+  ✓ Unauthenticated access denied
+  ✓ Cannot delete system role
+
+── Users ──
+  ✓ List users
+  ✓ Users list is array
+  ✓ Get user by ID
+  ✓ Update user
+  ✓ Deactivate user
+  ✓ Deactivated user login rejected
+  ✓ Reactivate user
+  ✓ Assign roles to user
+
+── Categories ──
+  ✓ Create category
+  ✓ List categories
+  ✓ Get category by ID
+  ✓ Update category
+
+── Colleges ──
+  ✓ Create college
+  ✓ College has auto-slug
+  ✓ List colleges
+  ✓ Get college by ID
+  ✓ Update college
+  ✓ Publish college
+  ✓ College status is published
+
+── Courses ──
+  ✓ Create course
+  ✓ List courses
+  ✓ Get course by ID
+  ✓ Update course
+  ✓ Add courses to college
+  ✓ Get colleges by course
+
+── Exams ──
+  ✓ Create exam
+  ✓ List exams
+  ✓ Get exam by ID
+  ✓ Update exam
+  ✓ Add exams to college
+
+── Content Sections ──
+  ✓ Create richtext section
+  ✓ Create FAQ section
+  ✓ List sections by college
+  ✓ Get section by ID
+  ✓ Update section
+
+── Forms ──
+  ✓ Create lead capture form
+  ✓ List forms
+  ✓ Get form by ID
+  ✓ Update form
+  ✓ Publish form
+  ✓ Assign form to pages
+
+── Submissions ──
+  ✓ Submit form (public, valid)
+  ✓ Form validation catches errors
+  ✓ Validation returns field errors
+  ✓ Second submission works
+  ✓ Third submission works
+  ✓ List submissions (admin)
+  ✓ At least 3 submissions exist
+  ✓ Get submission by ID
+
+── Leads ──
+  ✓ Leads auto-created from form
+  ✓ At least 3 leads exist
+  ✓ Lead field mapping — name
+  ✓ Lead field mapping — phone
+  ✓ Get lead by ID
+  ✓ Create lead directly
+  ✓ Update lead (priority)
+  ✓ Change lead status
+  ✓ Lead status updated
+  ✓ Status history recorded
+  ✓ Assign lead
+  ✓ Add note to lead
+  ✓ Note recorded
+  ✓ Filter leads by status
+  ✓ Filter leads by priority
+  ✓ Priority filter returns results
+  ✓ Filter leads by assignedTo
+  ✓ Filter leads by dateFrom
+  ✓ Filter leads by dateTo
+  ✓ Lead stats endpoint
+  ✓ Stats has byStatus
+  ✓ Stats has byPriority
+  ✓ Stats has newToday
+  ✓ Stats has newThisWeek
+  ✓ Lead export returns 200
+  ✓ Export Content-Type is text/csv
+  ✓ Export body is string (CSV)
+  ✓ CSV has header row
+  ✓ Bulk changeStatus
+  ✓ Bulk changeStatus count
+  ✓ Bulk status verified on lead
+  ✓ Bulk status history entry
+  ✓ Bulk assign
+  ✓ Bulk assign count
+  ✓ Bulk assign verified
+  ✓ Bulk delete
+  ✓ Bulk delete count
+
+── Reviews ──
+  ✓ Submit review (public)
+  ✓ List reviews (admin)
+  ✓ Review is pending by default
+  ✓ Moderate review (approve)
+  ✓ Moderate review (reject)
+
+── Discussions ──
+  ✓ Submit discussion (public)
+  ✓ List discussions (admin)
+  ✓ Get discussion by ID
+  ✓ Moderate discussion (approve)
+
+── SEO ──
+  ✓ Create SEO entry
+  ✓ List SEO entries
+  ✓ Get SEO by ID
+  ✓ Update SEO
+
+── Pages ──
+  ✓ Create page
+  ✓ List pages
+  ✓ Get page by ID
+  ✓ Update page
+  ✓ Publish page
+
+── Dashboard ──
+  ✓ Dashboard stats
+  ✓ Stats has totalColleges
+  ✓ Stats has totalLeads
+  ✓ Lead pipeline
+  ✓ Recent activity
+  ✓ Audit logs populated
+
+── Site Settings ──
+  ✓ Get site settings
+  ✓ Update site settings
+
+── Public Routes ──
+  ✓ Public: list colleges
+  ✓ Public: only published colleges
+  ✓ Public: college by slug
+  ✓ Public: college has courses populated
+  ✓ Public: college has exams populated
+  ✓ Public: college reviews
+  ✓ Public: only approved reviews
+  ✓ Public: college sections
+  ✓ Public: college discussions
+  ✓ Public: list courses
+  ✓ Public: course by slug
+  ✓ Public: colleges for course
+  ✓ Public: course sections
+  ✓ Public: course discussions
+  ✓ Public: list exams
+  ✓ Public: exam by slug
+  ✓ Public: exam sections
+  ✓ Public: exam discussions
+  ✓ Public: get form schema
+  ✓ Public: form has fields
+  ✓ Public: form has successMessage
+  ✓ Public: forms for page
+  ✓ Public: list pages
+  ✓ Public: page by slug
+  ✓ Public: SEO data
+  ✓ Public: site settings
+  ✓ Public: contact form
+  ✓ Public: list categories
+  ✓ Public: 404 for non-existent college
+
+── Edge Cases ──
+  ✓ 404 on invalid route
+  ✓ Invalid ObjectId handled
+  ✓ Protected route requires auth
+  ✓ Invalid token rejected
+  ✓ Expired/malformed token rejected
+  ✓ Duplicate college name creates with unique slug
+  ✓ Non-existent ObjectId returns 404
+
+── Cleanup ──
+  ✓ Delete SEO entry
+  ✓ Delete richtext section
+  ✓ Delete FAQ section
+  ✓ Delete discussion
+  ✓ Delete approved review
+  ✓ Delete rejected review
+  ✓ Delete lead
+  ✓ Delete direct lead
+  ✓ Delete form
+  ✓ Delete page
+  ✓ Delete exam
+  ✓ Delete course
+  ✓ Delete second course
+  ✓ Delete college
+  ✓ Delete second college
+  ✓ Delete duplicate college
+  ✓ Delete category
+  ✓ Delete limited user
+  ✓ Delete registered test user
+  ✓ Delete custom role
+  ✓ Reset admin password to original
+
+Result: 199/199 passed, 0 failed
+Status: ALL TESTS PASSED

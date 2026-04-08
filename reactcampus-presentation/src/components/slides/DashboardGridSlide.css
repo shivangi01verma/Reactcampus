@@ -1,0 +1,55 @@
+.dashboard-grid-slide {
+  background: var(--bg-secondary);
+  padding: 60px 80px 40px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.metric-card {
+  background: var(--ibm-ppt-sky);
+  padding: 40px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.metric-value {
+  font-size: 56pt;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+}
+
+.metric-label {
+  font-size: 18pt;
+  font-weight: 400;
+  color: var(--text-primary);
+  opacity: 0.8;
+  margin-bottom: 12px;
+}
+
+.metric-change {
+  font-size: 14pt;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.metric-change.positive {
+  background: var(--ibm-ppt-mint);
+  color: #0f6e3e;
+}
+
+.metric-change.negative {
+  background: #fff1f1;
+  color: #da1e28;
+}
+
+/* Made with Bob */

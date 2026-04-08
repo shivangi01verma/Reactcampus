@@ -1,0 +1,165 @@
+═══════════════════════════════════════════════════════════════
+  ReactCampus Frontend Test Report
+  Generated: 2026-02-19T23:58:16.181Z
+  Run ID: mlu4g4a3
+═══════════════════════════════════════════════════════════════
+
+┌──────────────────────────────────────────────┬────────┬────────┬────────┐
+│ Suite                                        │ Passed │ Failed │ Total  │
+├──────────────────────────────────────────────┼────────┼────────┼────────┤
+│ PASS Dev Server Health                       │      6 │      0 │      6 │
+│ PASS Static Assets                           │      6 │      0 │      6 │
+│ PASS Public Page Routes (SPA shell)          │     11 │      0 │     11 │
+│ PASS Auth Page Routes (SPA shell)            │      2 │      0 │      2 │
+│ PASS Admin Page Routes (SPA shell)           │     27 │      0 │     27 │
+│ PASS API Proxy — Public Endpoints (via :3000) │      9 │      0 │      9 │
+│ PASS API Proxy — Auth Flow (via :3000)       │     10 │      0 │     10 │
+│ PASS API Proxy — Protected Endpoints (via :3000) │     21 │      0 │     21 │
+│ PASS API Proxy — Full CRUD Flow (via :3000)  │      8 │      0 │      8 │
+│ PASS API Proxy — Error Handling              │      5 │      0 │      5 │
+│ PASS SPA Fallback (unknown routes → SPA shell) │      4 │      0 │      4 │
+│ PASS Cleanup                                 │      1 │      0 │      1 │
+├──────────────────────────────────────────────┼────────┼────────┼────────┤
+│ TOTAL                                        │    110 │      0 │    110 │
+└──────────────────────────────────────────────┴────────┴────────┴────────┘
+
+
+DETAILED RESULTS
+─────────────────────────────────────────────────────────────────
+
+── Dev Server Health ──
+  ✓ GET / returns 200
+  ✓ GET / returns HTML
+  ✓ HTML has <!DOCTYPE html>
+  ✓ HTML has <div id="root">
+  ✓ HTML has <script
+  ✓ Backend /health reachable
+
+── Static Assets ──
+  ✓ Vite client script loads
+  ✓ Vite client is JavaScript
+  ✓ main.tsx transforms and loads
+  ✓ main.tsx is JS content
+  ✓ index.css loads
+  ✓ vite.svg loads
+
+── Public Page Routes (SPA shell) ──
+  ✓ GET / → 200 + HTML
+  ✓ GET /colleges → 200 + HTML
+  ✓ GET /colleges/some-college-slug → 200 + HTML
+  ✓ GET /courses → 200 + HTML
+  ✓ GET /courses/some-course-slug → 200 + HTML
+  ✓ GET /exams → 200 + HTML
+  ✓ GET /exams/some-exam-slug → 200 + HTML
+  ✓ GET /about → 200 + HTML
+  ✓ GET /contact → 200 + HTML
+  ✓ GET /forms/some-form-slug → 200 + HTML
+  ✓ GET /pages/some-page-slug → 200 + HTML
+
+── Auth Page Routes (SPA shell) ──
+  ✓ GET /login → 200 + HTML
+  ✓ GET /register → 200 + HTML
+
+── Admin Page Routes (SPA shell) ──
+  ✓ GET /admin → 200 + SPA
+  ✓ GET /admin/users → 200 + SPA
+  ✓ GET /admin/users/new → 200 + SPA
+  ✓ GET /admin/roles → 200 + SPA
+  ✓ GET /admin/roles/new → 200 + SPA
+  ✓ GET /admin/categories → 200 + SPA
+  ✓ GET /admin/categories/new → 200 + SPA
+  ✓ GET /admin/colleges → 200 + SPA
+  ✓ GET /admin/colleges/new → 200 + SPA
+  ✓ GET /admin/courses → 200 + SPA
+  ✓ GET /admin/courses/new → 200 + SPA
+  ✓ GET /admin/exams → 200 + SPA
+  ✓ GET /admin/exams/new → 200 + SPA
+  ✓ GET /admin/forms → 200 + SPA
+  ✓ GET /admin/forms/new → 200 + SPA
+  ✓ GET /admin/submissions → 200 + SPA
+  ✓ GET /admin/leads → 200 + SPA
+  ✓ GET /admin/leads/pipeline → 200 + SPA
+  ✓ GET /admin/reviews → 200 + SPA
+  ✓ GET /admin/discussions → 200 + SPA
+  ✓ GET /admin/pages → 200 + SPA
+  ✓ GET /admin/pages/new → 200 + SPA
+  ✓ GET /admin/seo → 200 + SPA
+  ✓ GET /admin/seo/new → 200 + SPA
+  ✓ GET /admin/site-settings → 200 + SPA
+  ✓ GET /admin/settings/profile → 200 + SPA
+  ✓ GET /admin/settings/password → 200 + SPA
+
+── API Proxy — Public Endpoints (via :3000) ──
+  ✓ Proxy: GET /api/v1/public/colleges
+  ✓ Proxy: response is JSON
+  ✓ Proxy: data is array
+  ✓ Proxy: GET /api/v1/public/courses
+  ✓ Proxy: GET /api/v1/public/exams
+  ✓ Proxy: GET /api/v1/public/categories
+  ✓ Proxy: GET /api/v1/public/site-settings
+  ✓ Proxy: GET /api/v1/public/pages
+  ✓ Proxy: POST /api/v1/public/contact
+
+── API Proxy — Auth Flow (via :3000) ──
+  ✓ Proxy: register
+  ✓ Proxy: register returns tokens
+  ✓ Proxy: admin login
+  ✓ Proxy: login returns accessToken
+  ✓ Proxy: login returns user object
+  ✓ Proxy: GET /auth/me
+  ✓ Proxy: me returns email
+  ✓ Proxy: me returns permissions
+  ✓ Proxy: refresh token
+  ✓ Proxy: logout
+
+── API Proxy — Protected Endpoints (via :3000) ──
+  ✓ Proxy: GET /users
+  ✓ Proxy: GET /roles
+  ✓ Proxy: GET /permissions
+  ✓ Proxy: GET /colleges (admin)
+  ✓ Proxy: GET /courses (admin)
+  ✓ Proxy: GET /exams (admin)
+  ✓ Proxy: GET /categories (admin)
+  ✓ Proxy: GET /forms (admin)
+  ✓ Proxy: GET /leads (admin)
+  ✓ Proxy: GET /leads/stats
+  ✓ Proxy: GET /leads/export (CSV)
+  ✓ Proxy: CSV Content-Type
+  ✓ Proxy: GET /reviews
+  ✓ Proxy: GET /discussions
+  ✓ Proxy: GET /seo
+  ✓ Proxy: GET /pages (admin)
+  ✓ Proxy: GET /submissions
+  ✓ Proxy: GET /dashboard/stats
+  ✓ Proxy: GET /dashboard/pipeline
+  ✓ Proxy: GET /dashboard/activity
+  ✓ Proxy: GET /site-settings
+
+── API Proxy — Full CRUD Flow (via :3000) ──
+  ✓ Proxy CRUD: create college
+  ✓ Proxy CRUD: read college
+  ✓ Proxy CRUD: update college
+  ✓ Proxy CRUD: delete college
+  ✓ Proxy CRUD: create lead
+  ✓ Proxy CRUD: change lead status
+  ✓ Proxy CRUD: add lead note
+  ✓ Proxy CRUD: delete lead
+
+── API Proxy — Error Handling ──
+  ✓ Proxy: 401 without token
+  ✓ Proxy: 401 with bad token
+  ✓ Proxy: 404 on unknown API route
+  ✓ Proxy: bad ObjectId handled
+  ✓ Proxy: validation error 400
+
+── SPA Fallback (unknown routes → SPA shell) ──
+  ✓ GET /unknown-page → 200 + SPA
+  ✓ GET /some/deeply/nested/path → 200 + SPA
+  ✓ GET /admin/unknown-section → 200 + SPA
+  ✓ GET /colleges/does-not-exist/extra → 200 + SPA
+
+── Cleanup ──
+  ✓ Delete FE test user
+
+Result: 110/110 passed, 0 failed
+Status: ALL TESTS PASSED

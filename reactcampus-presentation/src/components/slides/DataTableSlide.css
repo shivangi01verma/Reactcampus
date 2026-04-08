@@ -1,0 +1,141 @@
+.data-table-slide {
+  padding: 40px 60px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.data-table-slide .slide-subtitle {
+  font-size: 16pt;
+  color: #666;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.table-description {
+  margin: 20px 0;
+  padding: 15px 20px;
+  background: #f8f9fa;
+  border-left: 4px solid #2563eb;
+  border-radius: 4px;
+}
+
+.table-description p {
+  margin: 0;
+  font-size: 14pt;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.table-container {
+  flex: 1;
+  overflow: auto;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  font-size: 11pt;
+}
+
+.data-table thead {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.data-table th {
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 11pt;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.data-table th:last-child {
+  border-right: none;
+}
+
+.data-table th.highlight {
+  background: #fbbf24;
+  color: #1f2937;
+}
+
+.data-table tbody tr {
+  border-bottom: 1px solid #e5e7eb;
+  transition: background-color 0.2s;
+}
+
+.data-table tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+.data-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.data-table td {
+  padding: 10px 16px;
+  color: #374151;
+  border-right: 1px solid #f3f4f6;
+}
+
+.data-table td:last-child {
+  border-right: none;
+}
+
+.data-table td.highlight {
+  background-color: #fef3c7;
+  font-weight: 600;
+  color: #92400e;
+}
+
+.table-caption {
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: #eff6ff;
+  border-radius: 6px;
+  border-left: 4px solid #3b82f6;
+}
+
+.table-caption p {
+  margin: 0;
+  font-size: 13pt;
+  color: #1e40af;
+  font-weight: 500;
+}
+
+/* Variant styles */
+.data-table-slide.before .data-table thead {
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+}
+
+.data-table-slide.after .data-table thead {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+}
+
+.data-table-slide.comparison .table-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* Responsive font sizing */
+@media (max-width: 1200px) {
+  .data-table {
+    font-size: 10pt;
+  }
+  
+  .data-table th,
+  .data-table td {
+    padding: 8px 12px;
+  }
+}
+
+/* Made with Bob */

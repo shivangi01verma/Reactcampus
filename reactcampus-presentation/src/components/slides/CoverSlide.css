@@ -1,0 +1,50 @@
+.cover-slide {
+  background: linear-gradient(135deg, #0f62fe 0%, #0043ce 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.cover-content {
+  text-align: center;
+  max-width: 900px;
+  padding: 0 80px;
+}
+
+.cover-label {
+  font-size: 12pt;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin-bottom: 40px;
+  opacity: 0.9;
+}
+
+.cover-slide .cover-title {
+  font-size: 42pt;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  margin-bottom: 24px;
+}
+
+.cover-slide .cover-subtitle {
+  font-size: 18pt;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-bottom: 60px;
+  opacity: 0.95;
+}
+
+.cover-meta {
+  font-size: 14pt;
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+.cover-meta .separator {
+  margin: 0 16px;
+}
+
+/* Made with Bob */

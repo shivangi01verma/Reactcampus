@@ -1,0 +1,39 @@
+.section-divider-slide {
+  background: var(--ibm-ppt-cyan);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-content {
+  text-align: center;
+  max-width: 800px;
+  padding: 0 80px;
+}
+
+.section-number {
+  font-size: 72pt;
+  font-weight: 600;
+  color: var(--ibm-blue-primary);
+  opacity: 0.3;
+  margin-bottom: 20px;
+  line-height: 1;
+}
+
+.section-title {
+  font-size: 42pt;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--text-primary);
+  margin-bottom: 20px;
+}
+
+.section-subtitle {
+  font-size: 18pt;
+  font-weight: 300;
+  line-height: 1.5;
+  color: var(--text-primary);
+  opacity: 0.8;
+}
+
+/* Made with Bob */

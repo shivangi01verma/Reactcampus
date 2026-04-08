@@ -1,0 +1,85 @@
+{
+  "total_colleges": 211,
+  "tier_distribution": {
+    "Tier 3": 107,
+    "Tier 2": 85,
+    "Tier 1": 10,
+    "Tier 4": 9
+  },
+  "type_distribution": {
+    "Government": 147,
+    "Private": 37,
+    "Deemed": 14,
+    "Autonomous": 13
+  },
+  "states_covered": 31,
+  "avg_score": 53.5,
+  "avg_placement_rate": 69.0,
+  "avg_package": 9.17,
+  "score_by_type": {
+    "Autonomous": 47.5,
+    "Deemed": 55.6,
+    "Government": 54.5,
+    "Private": 50.9
+  },
+  "score_by_region": {
+    "Central": 59.0,
+    "East": 50.4,
+    "North": 53.9,
+    "Northeast": 41.9,
+    "South": 54.8,
+    "West": 56.1
+  },
+  "top_10": [
+    {
+      "name": "National Law School Bangalore",
+      "score": 89.8,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "National Law Institute University Bhopal",
+      "score": 86.4,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "IISER Mohali",
+      "score": 84.1,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "Jadavpur University",
+      "score": 83.7,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "BITS Pilani",
+      "score": 81.2,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "IISER Kolkata",
+      "score": 79.3,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "Indian School of Business",
+      "score": 78.3,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "National Law University Delhi",
+      "score": 78.2,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "Manipal Academy of Higher Education",
+      "score": 76.0,
+      "tier": "Tier 1"
+    },
+    {
+      "name": "IIT Bombay IDC School of Design",
+      "score": 75.1,
+      "tier": "Tier 1"
+    }
+  ]
+}

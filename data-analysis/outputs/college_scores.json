@@ -1,0 +1,3167 @@
+[
+  {
+    "name": "National Law School Bangalore",
+    "slug": "national-law-school-bangalore",
+    "score": 89.8,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 24.42,
+      "package": 13.42,
+      "naac": 15.0,
+      "facultyRatio": 9.88,
+      "infrastructure": 10.0,
+      "companies": 7.83,
+      "selectivity": 9.29
+    }
+  },
+  {
+    "name": "National Law Institute University Bhopal",
+    "slug": "national-law-institute-university-bhopal",
+    "score": 86.4,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 24.78,
+      "package": 16.81,
+      "naac": 11.25,
+      "facultyRatio": 9.98,
+      "infrastructure": 8.0,
+      "companies": 9.36,
+      "selectivity": 6.23
+    }
+  },
+  {
+    "name": "IISER Mohali",
+    "slug": "iiser-mohali",
+    "score": 84.1,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 23.58,
+      "package": 16.84,
+      "naac": 11.25,
+      "facultyRatio": 9.88,
+      "infrastructure": 8.0,
+      "companies": 7.29,
+      "selectivity": 7.25
+    }
+  },
+  {
+    "name": "Jadavpur University",
+    "slug": "jadavpur-university",
+    "score": 83.7,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 22.48,
+      "package": 20.0,
+      "naac": 15.0,
+      "facultyRatio": 9.56,
+      "infrastructure": 6.0,
+      "companies": 3.49,
+      "selectivity": 7.17
+    }
+  },
+  {
+    "name": "BITS Pilani",
+    "slug": "bits-pilani",
+    "score": 81.2,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 22.79,
+      "package": 11.74,
+      "naac": 15.0,
+      "facultyRatio": 9.78,
+      "infrastructure": 8.0,
+      "companies": 8.13,
+      "selectivity": 5.72
+    }
+  },
+  {
+    "name": "IISER Kolkata",
+    "slug": "iiser-kolkata",
+    "score": 79.3,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 24.12,
+      "package": 16.01,
+      "naac": 11.25,
+      "facultyRatio": 9.98,
+      "infrastructure": 10.0,
+      "companies": 4.12,
+      "selectivity": 3.83
+    }
+  },
+  {
+    "name": "Indian School of Business",
+    "slug": "indian-school-of-business",
+    "score": 78.3,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 24.87,
+      "package": 6.36,
+      "naac": 15.0,
+      "facultyRatio": 9.78,
+      "infrastructure": 6.0,
+      "companies": 7.68,
+      "selectivity": 8.65
+    }
+  },
+  {
+    "name": "National Law University Delhi",
+    "slug": "national-law-university-delhi",
+    "score": 78.2,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 25.0,
+      "package": 11.79,
+      "naac": 11.25,
+      "facultyRatio": 9.98,
+      "infrastructure": 8.0,
+      "companies": 9.8,
+      "selectivity": 2.34
+    }
+  },
+  {
+    "name": "Manipal Academy of Higher Education",
+    "slug": "manipal-academy-of-higher-education",
+    "score": 76.0,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 22.48,
+      "package": 16.15,
+      "naac": 15.0,
+      "facultyRatio": 9.66,
+      "infrastructure": 8.0,
+      "companies": 1.34,
+      "selectivity": 3.4
+    }
+  },
+  {
+    "name": "IIT Bombay IDC School of Design",
+    "slug": "iit-bombay-idc-school-of-design",
+    "score": 75.1,
+    "tier": "Tier 1",
+    "breakdown": {
+      "placement": 20.58,
+      "package": 15.96,
+      "naac": 15.0,
+      "facultyRatio": 10.0,
+      "infrastructure": 8.0,
+      "companies": 3.99,
+      "selectivity": 1.6
+    }
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "slug": "srm-institute-of-science-and-technology",
+    "score": 74.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 24.16,
+      "package": 15.65,
+      "naac": 15.0,
+      "facultyRatio": 1.72,
+      "infrastructure": 6.0,
+      "companies": 4.72,
+      "selectivity": 7.31
+    }
+  },
+  {
+    "name": "Banaras Hindu University",
+    "slug": "banaras-hindu-university",
+    "score": 72.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.69,
+      "package": 5.13,
+      "naac": 15.0,
+      "facultyRatio": 8.92,
+      "infrastructure": 8.0,
+      "companies": 8.79,
+      "selectivity": 7.04
+    }
+  },
+  {
+    "name": "IISER Thiruvananthapuram",
+    "slug": "iiser-thiruvananthapuram",
+    "score": 71.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.59,
+      "package": 7.75,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 10.0,
+      "companies": 8.54,
+      "selectivity": 6.42
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "slug": "indian-institute-of-technology-kharagpur",
+    "score": 69.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.13,
+      "package": 6.17,
+      "naac": 15.0,
+      "facultyRatio": 9.74,
+      "infrastructure": 8.0,
+      "companies": 5.2,
+      "selectivity": 5.49
+    }
+  },
+  {
+    "name": "Christian Medical College Vellore",
+    "slug": "christian-medical-college-vellore",
+    "score": 69.3,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.81,
+      "package": 4.1,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 10.0,
+      "companies": 9.36,
+      "selectivity": 7.04
+    }
+  },
+  {
+    "name": "Pondicherry University",
+    "slug": "pondicherry-university",
+    "score": 68.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.44,
+      "package": 3.44,
+      "naac": 15.0,
+      "facultyRatio": 9.85,
+      "infrastructure": 10.0,
+      "companies": 9.86,
+      "selectivity": 0.31
+    }
+  },
+  {
+    "name": "IISER Pune",
+    "slug": "iiser-pune",
+    "score": 68.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.06,
+      "package": 7.83,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 4.0,
+      "companies": 9.0,
+      "selectivity": 1.7
+    }
+  },
+  {
+    "name": "Ramjas College Delhi",
+    "slug": "ramjas-college-delhi",
+    "score": 67.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.86,
+      "package": 4.93,
+      "naac": 11.25,
+      "facultyRatio": 9.68,
+      "infrastructure": 10.0,
+      "companies": 5.49,
+      "selectivity": 9.67
+    }
+  },
+  {
+    "name": "Indian Institute of Management Kozhikode",
+    "slug": "indian-institute-of-management-kozhikode",
+    "score": 67.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.19,
+      "package": 4.79,
+      "naac": 15.0,
+      "facultyRatio": 9.93,
+      "infrastructure": 4.0,
+      "companies": 3.83,
+      "selectivity": 9.02
+    }
+  },
+  {
+    "name": "Indian Institute of Management Bangalore",
+    "slug": "indian-institute-of-management-bangalore",
+    "score": 67.3,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.76,
+      "package": 6.55,
+      "naac": 15.0,
+      "facultyRatio": 9.63,
+      "infrastructure": 6.0,
+      "companies": 3.26,
+      "selectivity": 8.08
+    }
+  },
+  {
+    "name": "Anna University",
+    "slug": "anna-university",
+    "score": 67.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.89,
+      "package": 19.86,
+      "naac": 15.0,
+      "facultyRatio": 0.0,
+      "infrastructure": 10.0,
+      "companies": 1.8,
+      "selectivity": 6.69
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "slug": "indian-institute-of-technology-roorkee",
+    "score": 66.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.15,
+      "package": 6.53,
+      "naac": 15.0,
+      "facultyRatio": 9.51,
+      "infrastructure": 8.0,
+      "companies": 1.28,
+      "selectivity": 5.18
+    }
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "slug": "savitribai-phule-pune-university",
+    "score": 66.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.61,
+      "package": 3.89,
+      "naac": 15.0,
+      "facultyRatio": 8.87,
+      "infrastructure": 6.0,
+      "companies": 7.17,
+      "selectivity": 8.2
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Mohali",
+    "slug": "national-institute-of-pharmaceutical-education-and-research-mohali",
+    "score": 66.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.39,
+      "package": 3.23,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 6.0,
+      "companies": 7.66,
+      "selectivity": 6.91
+    }
+  },
+  {
+    "name": "University of Hyderabad",
+    "slug": "university-of-hyderabad",
+    "score": 66.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.55,
+      "package": 7.51,
+      "naac": 15.0,
+      "facultyRatio": 9.66,
+      "infrastructure": 10.0,
+      "companies": 4.53,
+      "selectivity": 7.9
+    }
+  },
+  {
+    "name": "VJTI Mumbai",
+    "slug": "vjti-mumbai",
+    "score": 65.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.19,
+      "package": 3.48,
+      "naac": 11.25,
+      "facultyRatio": 9.83,
+      "infrastructure": 6.0,
+      "companies": 5.61,
+      "selectivity": 8.24
+    }
+  },
+  {
+    "name": "Armed Forces Medical College",
+    "slug": "armed-forces-medical-college",
+    "score": 65.3,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.8,
+      "package": 3.44,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 4.0,
+      "companies": 9.52,
+      "selectivity": 7.62
+    }
+  },
+  {
+    "name": "NMIMS Mumbai",
+    "slug": "nmims-mumbai",
+    "score": 65.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.96,
+      "package": 8.68,
+      "naac": 15.0,
+      "facultyRatio": 6.49,
+      "infrastructure": 8.0,
+      "companies": 5.63,
+      "selectivity": 1.41
+    }
+  },
+  {
+    "name": "JSS College of Pharmacy",
+    "slug": "jss-college-of-pharmacy",
+    "score": 65.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.4,
+      "package": 0.4,
+      "naac": 15.0,
+      "facultyRatio": 9.78,
+      "infrastructure": 8.0,
+      "companies": 9.36,
+      "selectivity": 7.31
+    }
+  },
+  {
+    "name": "IISER Bhopal",
+    "slug": "iiser-bhopal",
+    "score": 65.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 23.45,
+      "package": 6.87,
+      "naac": 11.25,
+      "facultyRatio": 9.95,
+      "infrastructure": 2.0,
+      "companies": 3.8,
+      "selectivity": 7.72
+    }
+  },
+  {
+    "name": "Indian Agricultural Research Institute",
+    "slug": "indian-agricultural-research-institute",
+    "score": 64.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.18,
+      "package": 2.19,
+      "naac": 15.0,
+      "facultyRatio": 9.85,
+      "infrastructure": 6.0,
+      "companies": 7.25,
+      "selectivity": 4.39
+    }
+  },
+  {
+    "name": "Punjab Agricultural University",
+    "slug": "punjab-agricultural-university",
+    "score": 64.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.4,
+      "package": 3.44,
+      "naac": 11.25,
+      "facultyRatio": 9.88,
+      "infrastructure": 10.0,
+      "companies": 8.65,
+      "selectivity": 6.23
+    }
+  },
+  {
+    "name": "National Institute of Design Ahmedabad",
+    "slug": "national-institute-of-design-ahmedabad",
+    "score": 64.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.31,
+      "package": 7.03,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 4.0,
+      "companies": 8.59,
+      "selectivity": 4.25
+    }
+  },
+  {
+    "name": "Grant Medical College",
+    "slug": "grant-medical-college",
+    "score": 64.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.89,
+      "package": 4.44,
+      "naac": 11.25,
+      "facultyRatio": 9.98,
+      "infrastructure": 10.0,
+      "companies": 2.92,
+      "selectivity": 6.52
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "slug": "indian-institute-of-technology-kanpur",
+    "score": 63.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.79,
+      "package": 3.83,
+      "naac": 15.0,
+      "facultyRatio": 9.8,
+      "infrastructure": 10.0,
+      "companies": 4.69,
+      "selectivity": 2.56
+    }
+  },
+  {
+    "name": "Indian Institute of Management Lucknow",
+    "slug": "indian-institute-of-management-lucknow",
+    "score": 63.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.74,
+      "package": 3.91,
+      "naac": 15.0,
+      "facultyRatio": 9.9,
+      "infrastructure": 4.0,
+      "companies": 2.91,
+      "selectivity": 9.75
+    }
+  },
+  {
+    "name": "Sri Venkateswara University",
+    "slug": "sri-venkateswara-university",
+    "score": 63.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.81,
+      "package": 5.42,
+      "naac": 11.25,
+      "facultyRatio": 9.29,
+      "infrastructure": 6.0,
+      "companies": 4.99,
+      "selectivity": 9.38
+    }
+  },
+  {
+    "name": "RVCE Bangalore",
+    "slug": "rvce-bangalore",
+    "score": 62.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.91,
+      "package": 9.38,
+      "naac": 15.0,
+      "facultyRatio": 8.16,
+      "infrastructure": 2.0,
+      "companies": 2.35,
+      "selectivity": 6.05
+    }
+  },
+  {
+    "name": "Chitkara University",
+    "slug": "chitkara-university",
+    "score": 62.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.22,
+      "package": 2.33,
+      "naac": 11.25,
+      "facultyRatio": 6.9,
+      "infrastructure": 10.0,
+      "companies": 8.47,
+      "selectivity": 8.67
+    }
+  },
+  {
+    "name": "PEC Chandigarh",
+    "slug": "pec-chandigarh",
+    "score": 62.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.51,
+      "package": 2.99,
+      "naac": 11.25,
+      "facultyRatio": 9.26,
+      "infrastructure": 10.0,
+      "companies": 7.91,
+      "selectivity": 1.78
+    }
+  },
+  {
+    "name": "MS Ramaiah Institute of Technology",
+    "slug": "ms-ramaiah-institute-of-technology",
+    "score": 62.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.61,
+      "package": 3.34,
+      "naac": 11.25,
+      "facultyRatio": 9.61,
+      "infrastructure": 8.0,
+      "companies": 9.82,
+      "selectivity": 8.08
+    }
+  },
+  {
+    "name": "National Institute of Technology Warangal",
+    "slug": "national-institute-of-technology-warangal",
+    "score": 62.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.02,
+      "package": 4.09,
+      "naac": 11.25,
+      "facultyRatio": 9.68,
+      "infrastructure": 8.0,
+      "companies": 4.33,
+      "selectivity": 9.19
+    }
+  },
+  {
+    "name": "Guru Nanak Dev University",
+    "slug": "guru-nanak-dev-university",
+    "score": 62.4,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.37,
+      "package": 2.15,
+      "naac": 15.0,
+      "facultyRatio": 9.66,
+      "infrastructure": 8.0,
+      "companies": 8.98,
+      "selectivity": 2.22
+    }
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "slug": "jamia-millia-islamia",
+    "score": 62.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.17,
+      "package": 6.77,
+      "naac": 15.0,
+      "facultyRatio": 9.29,
+      "infrastructure": 8.0,
+      "companies": 0.0,
+      "selectivity": 5.72
+    }
+  },
+  {
+    "name": "NALSAR Hyderabad",
+    "slug": "nalsar-hyderabad",
+    "score": 62.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.63,
+      "package": 3.31,
+      "naac": 15.0,
+      "facultyRatio": 9.75,
+      "infrastructure": 0.0,
+      "companies": 7.97,
+      "selectivity": 7.35
+    }
+  },
+  {
+    "name": "Maulana Azad Medical College",
+    "slug": "maulana-azad-medical-college",
+    "score": 61.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.97,
+      "package": 6.94,
+      "naac": 15.0,
+      "facultyRatio": 9.46,
+      "infrastructure": 2.0,
+      "companies": 3.32,
+      "selectivity": 8.88
+    }
+  },
+  {
+    "name": "National Institute of Fashion Technology Delhi",
+    "slug": "national-institute-of-fashion-technology-delhi",
+    "score": 61.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.17,
+      "package": 5.26,
+      "naac": 11.25,
+      "facultyRatio": 9.34,
+      "infrastructure": 10.0,
+      "companies": 2.85,
+      "selectivity": 5.7
+    }
+  },
+  {
+    "name": "Institute of Hotel Management Delhi",
+    "slug": "institute-of-hotel-management-delhi",
+    "score": 61.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.27,
+      "package": 3.86,
+      "naac": 11.25,
+      "facultyRatio": 9.63,
+      "infrastructure": 6.0,
+      "companies": 6.95,
+      "selectivity": 10.0
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "slug": "indian-institute-of-technology-madras",
+    "score": 60.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.94,
+      "package": 5.41,
+      "naac": 15.0,
+      "facultyRatio": 9.75,
+      "infrastructure": 10.0,
+      "companies": 3.67,
+      "selectivity": 3.0
+    }
+  },
+  {
+    "name": "SNDT Womens University",
+    "slug": "sndt-womens-university",
+    "score": 60.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.15,
+      "package": 4.51,
+      "naac": 11.25,
+      "facultyRatio": 9.8,
+      "infrastructure": 10.0,
+      "companies": 3.81,
+      "selectivity": 5.28
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "slug": "indian-institute-of-technology-bombay",
+    "score": 60.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.37,
+      "package": 3.44,
+      "naac": 15.0,
+      "facultyRatio": 9.16,
+      "infrastructure": 6.0,
+      "companies": 9.8,
+      "selectivity": 5.81
+    }
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "slug": "indian-institute-of-management-ahmedabad",
+    "score": 60.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.55,
+      "package": 5.9,
+      "naac": 15.0,
+      "facultyRatio": 9.9,
+      "infrastructure": 8.0,
+      "companies": 1.84,
+      "selectivity": 8.4
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "slug": "indian-institute-of-technology-delhi",
+    "score": 60.4,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.84,
+      "package": 3.44,
+      "naac": 15.0,
+      "facultyRatio": 9.04,
+      "infrastructure": 4.0,
+      "companies": 6.13,
+      "selectivity": 1.94
+    }
+  },
+  {
+    "name": "University of Mumbai",
+    "slug": "university-of-mumbai",
+    "score": 60.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.42,
+      "package": 6.13,
+      "naac": 15.0,
+      "facultyRatio": 2.87,
+      "infrastructure": 6.0,
+      "companies": 6.13,
+      "selectivity": 4.62
+    }
+  },
+  {
+    "name": "Lady Shri Ram College",
+    "slug": "lady-shri-ram-college",
+    "score": 59.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 17.7,
+      "package": 5.29,
+      "naac": 15.0,
+      "facultyRatio": 9.58,
+      "infrastructure": 6.0,
+      "companies": 1.39,
+      "selectivity": 4.97
+    }
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology",
+    "slug": "maulana-azad-national-institute-of-technology",
+    "score": 59.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.1,
+      "package": 7.31,
+      "naac": 11.25,
+      "facultyRatio": 9.68,
+      "infrastructure": 8.0,
+      "companies": 1.94,
+      "selectivity": 3.55
+    }
+  },
+  {
+    "name": "XLRI Jamshedpur",
+    "slug": "xlri-jamshedpur",
+    "score": 59.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 22.12,
+      "package": 6.23,
+      "naac": 15.0,
+      "facultyRatio": 9.93,
+      "infrastructure": 2.0,
+      "companies": 0.73,
+      "selectivity": 3.76
+    }
+  },
+  {
+    "name": "Bharathiar University",
+    "slug": "bharathiar-university",
+    "score": 59.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.74,
+      "package": 3.09,
+      "naac": 11.25,
+      "facultyRatio": 9.19,
+      "infrastructure": 8.0,
+      "companies": 6.42,
+      "selectivity": 9.13
+    }
+  },
+  {
+    "name": "Mysore University",
+    "slug": "mysore-university",
+    "score": 59.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.48,
+      "package": 2.24,
+      "naac": 11.25,
+      "facultyRatio": 9.61,
+      "infrastructure": 10.0,
+      "companies": 8.29,
+      "selectivity": 5.9
+    }
+  },
+  {
+    "name": "Visvesvaraya National Institute of Technology",
+    "slug": "visvesvaraya-national-institute-of-technology",
+    "score": 59.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.18,
+      "package": 6.06,
+      "naac": 11.25,
+      "facultyRatio": 8.53,
+      "infrastructure": 8.0,
+      "companies": 4.03,
+      "selectivity": 1.66
+    }
+  },
+  {
+    "name": "Kasturba Medical College Manipal",
+    "slug": "kasturba-medical-college-manipal",
+    "score": 59.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.52,
+      "package": 0.59,
+      "naac": 15.0,
+      "facultyRatio": 9.43,
+      "infrastructure": 8.0,
+      "companies": 9.52,
+      "selectivity": 4.67
+    }
+  },
+  {
+    "name": "Gujarat National Law University",
+    "slug": "gujarat-national-law-university",
+    "score": 59.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 24.25,
+      "package": 3.44,
+      "naac": 7.5,
+      "facultyRatio": 10.0,
+      "infrastructure": 4.0,
+      "companies": 9.64,
+      "selectivity": 0.86
+    }
+  },
+  {
+    "name": "Utkal University",
+    "slug": "utkal-university",
+    "score": 59.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.62,
+      "package": 2.08,
+      "naac": 11.25,
+      "facultyRatio": 8.01,
+      "infrastructure": 10.0,
+      "companies": 6.84,
+      "selectivity": 5.77
+    }
+  },
+  {
+    "name": "Delhi Technological University",
+    "slug": "delhi-technological-university",
+    "score": 59.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.89,
+      "package": 13.01,
+      "naac": 15.0,
+      "facultyRatio": 9.34,
+      "infrastructure": 4.0,
+      "companies": 0.0,
+      "selectivity": 3.93
+    }
+  },
+  {
+    "name": "Bharathidasan University",
+    "slug": "bharathidasan-university",
+    "score": 59.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.3,
+      "package": 6.37,
+      "naac": 11.25,
+      "facultyRatio": 9.61,
+      "infrastructure": 10.0,
+      "companies": 0.43,
+      "selectivity": 9.19
+    }
+  },
+  {
+    "name": "Maharaja Sayajirao University of Baroda",
+    "slug": "maharaja-sayajirao-university-of-baroda",
+    "score": 58.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 14.78,
+      "package": 4.67,
+      "naac": 15.0,
+      "facultyRatio": 9.48,
+      "infrastructure": 6.0,
+      "companies": 2.76,
+      "selectivity": 6.23
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Dhanbad",
+    "slug": "indian-institute-of-technology-dhanbad",
+    "score": 58.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.27,
+      "package": 2.96,
+      "naac": 11.25,
+      "facultyRatio": 9.02,
+      "infrastructure": 10.0,
+      "companies": 6.6,
+      "selectivity": 5.65
+    }
+  },
+  {
+    "name": "King George Medical University",
+    "slug": "king-george-medical-university",
+    "score": 58.5,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 21.11,
+      "package": 4.31,
+      "naac": 11.25,
+      "facultyRatio": 9.9,
+      "infrastructure": 2.0,
+      "companies": 5.56,
+      "selectivity": 4.39
+    }
+  },
+  {
+    "name": "School of Planning and Architecture Delhi",
+    "slug": "school-of-planning-and-architecture-delhi",
+    "score": 58.5,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.97,
+      "package": 1.86,
+      "naac": 11.25,
+      "facultyRatio": 9.95,
+      "infrastructure": 4.0,
+      "companies": 8.48,
+      "selectivity": 6.95
+    }
+  },
+  {
+    "name": "Hansraj College Delhi",
+    "slug": "hansraj-college-delhi",
+    "score": 58.3,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.71,
+      "package": 3.83,
+      "naac": 11.25,
+      "facultyRatio": 9.51,
+      "infrastructure": 8.0,
+      "companies": 2.34,
+      "selectivity": 2.69
+    }
+  },
+  {
+    "name": "Indian Institute of Science",
+    "slug": "indian-institute-of-science",
+    "score": 58.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 14.12,
+      "package": 5.82,
+      "naac": 15.0,
+      "facultyRatio": 9.93,
+      "infrastructure": 10.0,
+      "companies": 0.0,
+      "selectivity": 3.17
+    }
+  },
+  {
+    "name": "Indian Institute of Management Indore",
+    "slug": "indian-institute-of-management-indore",
+    "score": 58.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.79,
+      "package": 2.13,
+      "naac": 15.0,
+      "facultyRatio": 9.75,
+      "infrastructure": 8.0,
+      "companies": 6.26,
+      "selectivity": 4.05
+    }
+  },
+  {
+    "name": "Symbiosis International University",
+    "slug": "symbiosis-international-university",
+    "score": 57.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 20.88,
+      "package": 7.13,
+      "naac": 15.0,
+      "facultyRatio": 9.26,
+      "infrastructure": 4.0,
+      "companies": 0.62,
+      "selectivity": 0.89
+    }
+  },
+  {
+    "name": "Birla Institute of Technology Mesra",
+    "slug": "birla-institute-of-technology-mesra",
+    "score": 57.8,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.42,
+      "package": 1.59,
+      "naac": 11.25,
+      "facultyRatio": 9.63,
+      "infrastructure": 10.0,
+      "companies": 4.37,
+      "selectivity": 9.56
+    }
+  },
+  {
+    "name": "National Institute of Technology Surathkal",
+    "slug": "national-institute-of-technology-surathkal",
+    "score": 57.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.56,
+      "package": 2.82,
+      "naac": 11.25,
+      "facultyRatio": 9.71,
+      "infrastructure": 8.0,
+      "companies": 2.05,
+      "selectivity": 4.36
+    }
+  },
+  {
+    "name": "All India Institute of Medical Sciences Delhi",
+    "slug": "all-india-institute-of-medical-sciences-delhi",
+    "score": 57.6,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 19.34,
+      "package": 3.98,
+      "naac": 15.0,
+      "facultyRatio": 9.58,
+      "infrastructure": 2.0,
+      "companies": 3.62,
+      "selectivity": 4.08
+    }
+  },
+  {
+    "name": "Hindu College Delhi",
+    "slug": "hindu-college-delhi",
+    "score": 57.4,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 14.73,
+      "package": 5.07,
+      "naac": 15.0,
+      "facultyRatio": 8.82,
+      "infrastructure": 2.0,
+      "companies": 4.37,
+      "selectivity": 7.38
+    }
+  },
+  {
+    "name": "University of Kerala",
+    "slug": "university-of-kerala",
+    "score": 57.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.23,
+      "package": 4.76,
+      "naac": 15.0,
+      "facultyRatio": 9.61,
+      "infrastructure": 2.0,
+      "companies": 9.86,
+      "selectivity": 2.72
+    }
+  },
+  {
+    "name": "Miranda House Delhi",
+    "slug": "miranda-house-delhi",
+    "score": 57.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.96,
+      "package": 3.31,
+      "naac": 15.0,
+      "facultyRatio": 9.46,
+      "infrastructure": 6.0,
+      "companies": 1.75,
+      "selectivity": 8.64
+    }
+  },
+  {
+    "name": "Institute of Chemical Technology Mumbai",
+    "slug": "institute-of-chemical-technology-mumbai",
+    "score": 57.0,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 14.56,
+      "package": 1.7,
+      "naac": 15.0,
+      "facultyRatio": 9.93,
+      "infrastructure": 4.0,
+      "companies": 8.54,
+      "selectivity": 3.3
+    }
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "slug": "national-institute-of-technology-rourkela",
+    "score": 56.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.05,
+      "package": 2.01,
+      "naac": 11.25,
+      "facultyRatio": 9.51,
+      "infrastructure": 10.0,
+      "companies": 3.8,
+      "selectivity": 7.28
+    }
+  },
+  {
+    "name": "Jain University",
+    "slug": "jain-university",
+    "score": 56.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 7.57,
+      "package": 3.83,
+      "naac": 15.0,
+      "facultyRatio": 8.94,
+      "infrastructure": 10.0,
+      "companies": 9.73,
+      "selectivity": 1.86
+    }
+  },
+  {
+    "name": "Lucknow University",
+    "slug": "lucknow-university",
+    "score": 56.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.36,
+      "package": 3.68,
+      "naac": 11.25,
+      "facultyRatio": 9.46,
+      "infrastructure": 4.0,
+      "companies": 2.35,
+      "selectivity": 7.78
+    }
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "slug": "jawaharlal-nehru-university",
+    "score": 56.5,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 18.05,
+      "package": 1.43,
+      "naac": 15.0,
+      "facultyRatio": 8.01,
+      "infrastructure": 8.0,
+      "companies": 0.2,
+      "selectivity": 5.84
+    }
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "slug": "national-institute-of-technology-calicut",
+    "score": 56.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 13.58,
+      "package": 3.89,
+      "naac": 11.25,
+      "facultyRatio": 9.68,
+      "infrastructure": 4.0,
+      "companies": 8.54,
+      "selectivity": 5.12
+    }
+  },
+  {
+    "name": "Hindustan Institute of Technology",
+    "slug": "hindustan-institute-of-technology",
+    "score": 56.1,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.88,
+      "package": 0.71,
+      "naac": 7.5,
+      "facultyRatio": 7.49,
+      "infrastructure": 10.0,
+      "companies": 4.62,
+      "selectivity": 9.94
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Goa",
+    "slug": "indian-institute-of-technology-goa",
+    "score": 55.9,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 4.25,
+      "package": 2.39,
+      "naac": 15.0,
+      "facultyRatio": 9.98,
+      "infrastructure": 6.0,
+      "companies": 9.86,
+      "selectivity": 8.46
+    }
+  },
+  {
+    "name": "National Institute of Technology Trichy",
+    "slug": "national-institute-of-technology-trichy",
+    "score": 55.7,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.42,
+      "package": 2.85,
+      "naac": 15.0,
+      "facultyRatio": 9.34,
+      "infrastructure": 6.0,
+      "companies": 2.16,
+      "selectivity": 8.91
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "slug": "indian-institute-of-technology-hyderabad",
+    "score": 55.4,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 11.73,
+      "package": 6.01,
+      "naac": 11.25,
+      "facultyRatio": 9.53,
+      "infrastructure": 8.0,
+      "companies": 3.35,
+      "selectivity": 5.55
+    }
+  },
+  {
+    "name": "Faculty of Management Studies Delhi",
+    "slug": "faculty-of-management-studies-delhi",
+    "score": 55.3,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 12.57,
+      "package": 5.38,
+      "naac": 15.0,
+      "facultyRatio": 9.95,
+      "infrastructure": 10.0,
+      "companies": 1.23,
+      "selectivity": 1.21
+    }
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "slug": "aligarh-muslim-university",
+    "score": 55.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 15.13,
+      "package": 6.46,
+      "naac": 15.0,
+      "facultyRatio": 9.14,
+      "infrastructure": 0.0,
+      "companies": 3.48,
+      "selectivity": 6.02
+    }
+  },
+  {
+    "name": "MICA Ahmedabad",
+    "slug": "mica-ahmedabad",
+    "score": 55.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 16.55,
+      "package": 3.57,
+      "naac": 11.25,
+      "facultyRatio": 9.75,
+      "infrastructure": 10.0,
+      "companies": 3.92,
+      "selectivity": 0.19
+    }
+  },
+  {
+    "name": "Netaji Subhas University of Technology",
+    "slug": "netaji-subhas-university-of-technology",
+    "score": 55.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 14.87,
+      "package": 4.28,
+      "naac": 11.25,
+      "facultyRatio": 9.29,
+      "infrastructure": 10.0,
+      "companies": 0.41,
+      "selectivity": 5.15
+    }
+  },
+  {
+    "name": "International Institute of Information Technology Hyderabad",
+    "slug": "international-institute-of-information-technology-hyderabad",
+    "score": 55.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 7.96,
+      "package": 3.16,
+      "naac": 15.0,
+      "facultyRatio": 9.83,
+      "infrastructure": 6.0,
+      "companies": 5.78,
+      "selectivity": 7.43
+    }
+  },
+  {
+    "name": "Koneru Lakshmaiah Education Foundation",
+    "slug": "koneru-lakshmaiah-education-foundation",
+    "score": 55.2,
+    "tier": "Tier 2",
+    "breakdown": {
+      "placement": 7.04,
+      "package": 3.1,
+      "naac": 15.0,
+      "facultyRatio": 9.43,
+      "infrastructure": 10.0,
+      "companies": 3.92,
+      "selectivity": 6.72
+    }
+  },
+  {
+    "name": "Institute of Hotel Management Mumbai",
+    "slug": "institute-of-hotel-management-mumbai",
+    "score": 54.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 20.75,
+      "package": 6.62,
+      "naac": 11.25,
+      "facultyRatio": 9.95,
+      "infrastructure": 2.0,
+      "companies": 3.53,
+      "selectivity": 0.7
+    }
+  },
+  {
+    "name": "St Johns Medical College",
+    "slug": "st-johns-medical-college",
+    "score": 54.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 14.87,
+      "package": 5.03,
+      "naac": 11.25,
+      "facultyRatio": 9.78,
+      "infrastructure": 2.0,
+      "companies": 7.25,
+      "selectivity": 4.5
+    }
+  },
+  {
+    "name": "Madras Christian College",
+    "slug": "madras-christian-college",
+    "score": 54.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 14.25,
+      "package": 1.65,
+      "naac": 11.25,
+      "facultyRatio": 9.39,
+      "infrastructure": 8.0,
+      "companies": 0.62,
+      "selectivity": 9.56
+    }
+  },
+  {
+    "name": "Sathyabama Institute of Science and Technology",
+    "slug": "sathyabama-institute-of-science-and-technology",
+    "score": 54.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.45,
+      "package": 1.65,
+      "naac": 11.25,
+      "facultyRatio": 9.48,
+      "infrastructure": 8.0,
+      "companies": 9.89,
+      "selectivity": 6.01
+    }
+  },
+  {
+    "name": "Sharda University",
+    "slug": "sharda-university",
+    "score": 54.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 13.58,
+      "package": 4.41,
+      "naac": 11.25,
+      "facultyRatio": 9.31,
+      "infrastructure": 4.0,
+      "companies": 5.72,
+      "selectivity": 6.18
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "slug": "indian-institute-of-technology-indore",
+    "score": 54.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 17.96,
+      "package": 2.77,
+      "naac": 11.25,
+      "facultyRatio": 9.8,
+      "infrastructure": 6.0,
+      "companies": 0.57,
+      "selectivity": 5.84
+    }
+  },
+  {
+    "name": "University of Madras",
+    "slug": "university-of-madras",
+    "score": 54.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 14.65,
+      "package": 3.44,
+      "naac": 15.0,
+      "facultyRatio": 4.3,
+      "infrastructure": 10.0,
+      "companies": 2.94,
+      "selectivity": 3.86
+    }
+  },
+  {
+    "name": "JIPMER Puducherry",
+    "slug": "jipmer-puducherry",
+    "score": 54.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 13.85,
+      "package": 7.31,
+      "naac": 15.0,
+      "facultyRatio": 9.95,
+      "infrastructure": 6.0,
+      "companies": 0.45,
+      "selectivity": 1.51
+    }
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "slug": "amrita-vishwa-vidyapeetham",
+    "score": 54.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.42,
+      "package": 4.35,
+      "naac": 15.0,
+      "facultyRatio": 9.16,
+      "infrastructure": 4.0,
+      "companies": 8.57,
+      "selectivity": 3.54
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Jammu",
+    "slug": "indian-institute-of-technology-jammu",
+    "score": 54.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 2.08,
+      "package": 0.61,
+      "naac": 15.0,
+      "facultyRatio": 9.95,
+      "infrastructure": 10.0,
+      "companies": 8.36,
+      "selectivity": 7.97
+    }
+  },
+  {
+    "name": "PSG College of Technology",
+    "slug": "psg-college-of-technology",
+    "score": 54.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 13.98,
+      "package": 0.16,
+      "naac": 15.0,
+      "facultyRatio": 9.71,
+      "infrastructure": 6.0,
+      "companies": 7.34,
+      "selectivity": 1.78
+    }
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "slug": "sardar-vallabhbhai-national-institute-of-technology-surat",
+    "score": 53.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.15,
+      "package": 4.74,
+      "naac": 11.25,
+      "facultyRatio": 7.99,
+      "infrastructure": 6.0,
+      "companies": 9.54,
+      "selectivity": 3.25
+    }
+  },
+  {
+    "name": "College of Engineering Pune",
+    "slug": "college-of-engineering-pune",
+    "score": 53.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 16.06,
+      "package": 5.23,
+      "naac": 11.25,
+      "facultyRatio": 9.56,
+      "infrastructure": 6.0,
+      "companies": 2.48,
+      "selectivity": 3.21
+    }
+  },
+  {
+    "name": "GB Pant University of Agriculture",
+    "slug": "gb-pant-university-of-agriculture",
+    "score": 53.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.7,
+      "package": 5.51,
+      "naac": 15.0,
+      "facultyRatio": 9.93,
+      "infrastructure": 4.0,
+      "companies": 6.52,
+      "selectivity": 0.09
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Dharwad",
+    "slug": "indian-institute-of-technology-dharwad",
+    "score": 53.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.12,
+      "package": 2.89,
+      "naac": 15.0,
+      "facultyRatio": 9.61,
+      "infrastructure": 6.0,
+      "companies": 7.66,
+      "selectivity": 5.41
+    }
+  },
+  {
+    "name": "Jammu University",
+    "slug": "jammu-university",
+    "score": 53.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.0,
+      "package": 4.81,
+      "naac": 11.25,
+      "facultyRatio": 9.78,
+      "infrastructure": 8.0,
+      "companies": 3.28,
+      "selectivity": 1.58
+    }
+  },
+  {
+    "name": "St Stephens College",
+    "slug": "st-stephens-college",
+    "score": 53.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 16.19,
+      "package": 1.35,
+      "naac": 15.0,
+      "facultyRatio": 7.71,
+      "infrastructure": 2.0,
+      "companies": 9.73,
+      "selectivity": 1.61
+    }
+  },
+  {
+    "name": "Fergusson College",
+    "slug": "fergusson-college",
+    "score": 53.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.24,
+      "package": 3.14,
+      "naac": 11.25,
+      "facultyRatio": 9.34,
+      "infrastructure": 6.0,
+      "companies": 10.0,
+      "selectivity": 7.54
+    }
+  },
+  {
+    "name": "Panjab University",
+    "slug": "panjab-university",
+    "score": 53.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.04,
+      "package": 3.0,
+      "naac": 15.0,
+      "facultyRatio": 9.12,
+      "infrastructure": 10.0,
+      "companies": 0.2,
+      "selectivity": 1.17
+    }
+  },
+  {
+    "name": "Malaviya National Institute of Technology Jaipur",
+    "slug": "malaviya-national-institute-of-technology-jaipur",
+    "score": 53.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 21.24,
+      "package": 4.45,
+      "naac": 11.25,
+      "facultyRatio": 9.53,
+      "infrastructure": 4.0,
+      "companies": 0.2,
+      "selectivity": 2.75
+    }
+  },
+  {
+    "name": "Indian Institute of Technology BHU Varanasi",
+    "slug": "indian-institute-of-technology-bhu-varanasi",
+    "score": 53.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.4,
+      "package": 7.52,
+      "naac": 15.0,
+      "facultyRatio": 9.78,
+      "infrastructure": 2.0,
+      "companies": 3.32,
+      "selectivity": 0.31
+    }
+  },
+  {
+    "name": "Motilal Nehru National Institute of Technology",
+    "slug": "motilal-nehru-national-institute-of-technology",
+    "score": 53.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.62,
+      "package": 6.88,
+      "naac": 11.25,
+      "facultyRatio": 9.75,
+      "infrastructure": 6.0,
+      "companies": 0.94,
+      "selectivity": 2.62
+    }
+  },
+  {
+    "name": "Indian Institute of Management Calcutta",
+    "slug": "indian-institute-of-management-calcutta",
+    "score": 53.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.57,
+      "package": 3.77,
+      "naac": 15.0,
+      "facultyRatio": 9.88,
+      "infrastructure": 4.0,
+      "companies": 3.24,
+      "selectivity": 4.66
+    }
+  },
+  {
+    "name": "Chandigarh University",
+    "slug": "chandigarh-university",
+    "score": 52.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.43,
+      "package": 2.52,
+      "naac": 11.25,
+      "facultyRatio": 9.16,
+      "infrastructure": 4.0,
+      "companies": 5.04,
+      "selectivity": 8.45
+    }
+  },
+  {
+    "name": "Christ University",
+    "slug": "christ-university",
+    "score": 52.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.88,
+      "package": 4.4,
+      "naac": 15.0,
+      "facultyRatio": 8.87,
+      "infrastructure": 2.0,
+      "companies": 1.05,
+      "selectivity": 5.67
+    }
+  },
+  {
+    "name": "Indian Institute of Engineering Science and Technology",
+    "slug": "indian-institute-of-engineering-science-and-technology",
+    "score": 52.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.84,
+      "package": 1.88,
+      "naac": 11.25,
+      "facultyRatio": 8.5,
+      "infrastructure": 2.0,
+      "companies": 6.42,
+      "selectivity": 6.91
+    }
+  },
+  {
+    "name": "University of Delhi",
+    "slug": "university-of-delhi",
+    "score": 52.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 18.14,
+      "package": 5.24,
+      "naac": 15.0,
+      "facultyRatio": 6.66,
+      "infrastructure": 2.0,
+      "companies": 5.29,
+      "selectivity": 0.27
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Bhilai",
+    "slug": "indian-institute-of-technology-bhilai",
+    "score": 52.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 4.16,
+      "package": 2.56,
+      "naac": 15.0,
+      "facultyRatio": 9.66,
+      "infrastructure": 10.0,
+      "companies": 8.52,
+      "selectivity": 2.32
+    }
+  },
+  {
+    "name": "Cochin University of Science and Technology",
+    "slug": "cochin-university-of-science-and-technology",
+    "score": 52.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 17.74,
+      "package": 3.51,
+      "naac": 11.25,
+      "facultyRatio": 9.78,
+      "infrastructure": 0.0,
+      "companies": 9.5,
+      "selectivity": 0.21
+    }
+  },
+  {
+    "name": "Bangalore University",
+    "slug": "bangalore-university",
+    "score": 51.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.93,
+      "package": 6.13,
+      "naac": 11.25,
+      "facultyRatio": 9.02,
+      "infrastructure": 0.0,
+      "companies": 7.13,
+      "selectivity": 2.28
+    }
+  },
+  {
+    "name": "University of Calcutta",
+    "slug": "university-of-calcutta",
+    "score": 51.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.21,
+      "package": 0.27,
+      "naac": 7.5,
+      "facultyRatio": 9.14,
+      "infrastructure": 6.0,
+      "companies": 9.64,
+      "selectivity": 6.76
+    }
+  },
+  {
+    "name": "National Institute of Technology Srinagar",
+    "slug": "national-institute-of-technology-srinagar",
+    "score": 51.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.58,
+      "package": 2.05,
+      "naac": 3.75,
+      "facultyRatio": 9.16,
+      "infrastructure": 10.0,
+      "companies": 9.02,
+      "selectivity": 6.72
+    }
+  },
+  {
+    "name": "Central University of Karnataka",
+    "slug": "central-university-of-karnataka",
+    "score": 51.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.55,
+      "package": 3.44,
+      "naac": 3.75,
+      "facultyRatio": 9.93,
+      "infrastructure": 6.0,
+      "companies": 7.24,
+      "selectivity": 9.33
+    }
+  },
+  {
+    "name": "Gujarat University",
+    "slug": "gujarat-university",
+    "score": 51.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.18,
+      "package": 7.27,
+      "naac": 11.25,
+      "facultyRatio": 9.36,
+      "infrastructure": 4.0,
+      "companies": 3.01,
+      "selectivity": 1.02
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "slug": "indian-institute-of-technology-guwahati",
+    "score": 51.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.33,
+      "package": 4.87,
+      "naac": 15.0,
+      "facultyRatio": 7.94,
+      "infrastructure": 10.0,
+      "companies": 0.93,
+      "selectivity": 0.95
+    }
+  },
+  {
+    "name": "PES University",
+    "slug": "pes-university",
+    "score": 50.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.52,
+      "package": 4.89,
+      "naac": 11.25,
+      "facultyRatio": 9.36,
+      "infrastructure": 4.0,
+      "companies": 8.07,
+      "selectivity": 5.71
+    }
+  },
+  {
+    "name": "West Bengal National University of Juridical Sciences",
+    "slug": "west-bengal-national-university-of-juridical-sciences",
+    "score": 50.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.48,
+      "package": 1.26,
+      "naac": 11.25,
+      "facultyRatio": 10.0,
+      "infrastructure": 6.0,
+      "companies": 7.88,
+      "selectivity": 1.85
+    }
+  },
+  {
+    "name": "Management Development Institute",
+    "slug": "management-development-institute",
+    "score": 50.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.27,
+      "package": 0.94,
+      "naac": 15.0,
+      "facultyRatio": 9.73,
+      "infrastructure": 4.0,
+      "companies": 5.56,
+      "selectivity": 7.06
+    }
+  },
+  {
+    "name": "SP Jain Institute of Management",
+    "slug": "sp-jain-institute-of-management",
+    "score": 50.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.97,
+      "package": 0.99,
+      "naac": 15.0,
+      "facultyRatio": 9.66,
+      "infrastructure": 4.0,
+      "companies": 7.08,
+      "selectivity": 2.75
+    }
+  },
+  {
+    "name": "Symbiosis Centre for Management",
+    "slug": "symbiosis-centre-for-management",
+    "score": 50.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 16.28,
+      "package": 2.47,
+      "naac": 11.25,
+      "facultyRatio": 9.71,
+      "infrastructure": 2.0,
+      "companies": 6.63,
+      "selectivity": 2.2
+    }
+  },
+  {
+    "name": "Lovely Professional University",
+    "slug": "lovely-professional-university",
+    "score": 50.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 14.91,
+      "package": 2.46,
+      "naac": 11.25,
+      "facultyRatio": 5.04,
+      "infrastructure": 4.0,
+      "companies": 7.81,
+      "selectivity": 4.79
+    }
+  },
+  {
+    "name": "Kumaun University",
+    "slug": "kumaun-university",
+    "score": 50.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.35,
+      "package": 2.35,
+      "naac": 3.75,
+      "facultyRatio": 9.93,
+      "infrastructure": 10.0,
+      "companies": 7.09,
+      "selectivity": 9.7
+    }
+  },
+  {
+    "name": "North Eastern Hill University",
+    "slug": "north-eastern-hill-university",
+    "score": 49.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 13.89,
+      "package": 2.56,
+      "naac": 7.5,
+      "facultyRatio": 9.58,
+      "infrastructure": 10.0,
+      "companies": 2.34,
+      "selectivity": 3.65
+    }
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "slug": "vellore-institute-of-technology",
+    "score": 49.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.86,
+      "package": 4.49,
+      "naac": 15.0,
+      "facultyRatio": 6.46,
+      "infrastructure": 6.0,
+      "companies": 0.94,
+      "selectivity": 4.41
+    }
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology",
+    "slug": "kalinga-institute-of-industrial-technology",
+    "score": 49.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.59,
+      "package": 4.12,
+      "naac": 15.0,
+      "facultyRatio": 9.16,
+      "infrastructure": 2.0,
+      "companies": 5.04,
+      "selectivity": 2.17
+    }
+  },
+  {
+    "name": "Gauhati University",
+    "slug": "gauhati-university",
+    "score": 49.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.9,
+      "package": 0.96,
+      "naac": 7.5,
+      "facultyRatio": 9.66,
+      "infrastructure": 10.0,
+      "companies": 5.67,
+      "selectivity": 3.31
+    }
+  },
+  {
+    "name": "National Institute of Technology Hamirpur",
+    "slug": "national-institute-of-technology-hamirpur",
+    "score": 48.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.43,
+      "package": 1.57,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 8.0,
+      "companies": 5.29,
+      "selectivity": 4.23
+    }
+  },
+  {
+    "name": "University of Allahabad",
+    "slug": "university-of-allahabad",
+    "score": 48.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 14.29,
+      "package": 5.25,
+      "naac": 11.25,
+      "facultyRatio": 9.61,
+      "infrastructure": 2.0,
+      "companies": 0.55,
+      "selectivity": 5.52
+    }
+  },
+  {
+    "name": "Manipal College of Pharmaceutical Sciences",
+    "slug": "manipal-college-of-pharmaceutical-sciences",
+    "score": 48.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.42,
+      "package": 3.21,
+      "naac": 11.25,
+      "facultyRatio": 9.78,
+      "infrastructure": 2.0,
+      "companies": 2.41,
+      "selectivity": 8.25
+    }
+  },
+  {
+    "name": "Andhra University",
+    "slug": "andhra-university",
+    "score": 48.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.65,
+      "package": 1.89,
+      "naac": 7.5,
+      "facultyRatio": 9.29,
+      "infrastructure": 10.0,
+      "companies": 5.63,
+      "selectivity": 4.28
+    }
+  },
+  {
+    "name": "National Institute of Technology Durgapur",
+    "slug": "national-institute-of-technology-durgapur",
+    "score": 48.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.28,
+      "package": 1.35,
+      "naac": 7.5,
+      "facultyRatio": 8.97,
+      "infrastructure": 6.0,
+      "companies": 8.57,
+      "selectivity": 9.41
+    }
+  },
+  {
+    "name": "OP Jindal Global University",
+    "slug": "op-jindal-global-university",
+    "score": 47.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.62,
+      "package": 3.5,
+      "naac": 11.25,
+      "facultyRatio": 9.73,
+      "infrastructure": 6.0,
+      "companies": 2.58,
+      "selectivity": 4.2
+    }
+  },
+  {
+    "name": "Dayananda Sagar College of Engineering",
+    "slug": "dayananda-sagar-college-of-engineering",
+    "score": 47.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.88,
+      "package": 1.17,
+      "naac": 11.25,
+      "facultyRatio": 8.7,
+      "infrastructure": 2.0,
+      "companies": 9.66,
+      "selectivity": 3.76
+    }
+  },
+  {
+    "name": "University of Rajasthan",
+    "slug": "university-of-rajasthan",
+    "score": 47.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 17.48,
+      "package": 2.77,
+      "naac": 11.25,
+      "facultyRatio": 9.46,
+      "infrastructure": 4.0,
+      "companies": 0.98,
+      "selectivity": 1.21
+    }
+  },
+  {
+    "name": "Tamil Nadu Agricultural University",
+    "slug": "tamil-nadu-agricultural-university",
+    "score": 47.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 17.17,
+      "package": 1.67,
+      "naac": 11.25,
+      "facultyRatio": 9.46,
+      "infrastructure": 6.0,
+      "companies": 0.14,
+      "selectivity": 1.41
+    }
+  },
+  {
+    "name": "Bombay College of Pharmacy",
+    "slug": "bombay-college-of-pharmacy",
+    "score": 46.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 13.45,
+      "package": 4.61,
+      "naac": 11.25,
+      "facultyRatio": 9.9,
+      "infrastructure": 2.0,
+      "companies": 2.73,
+      "selectivity": 2.84
+    }
+  },
+  {
+    "name": "Central University of Gujarat",
+    "slug": "central-university-of-gujarat",
+    "score": 46.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.84,
+      "package": 1.47,
+      "naac": 7.5,
+      "facultyRatio": 9.95,
+      "infrastructure": 8.0,
+      "companies": 4.6,
+      "selectivity": 4.42
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Tirupati",
+    "slug": "indian-institute-of-technology-tirupati",
+    "score": 46.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.8,
+      "package": 2.3,
+      "naac": 7.5,
+      "facultyRatio": 9.95,
+      "infrastructure": 6.0,
+      "companies": 6.88,
+      "selectivity": 8.15
+    }
+  },
+  {
+    "name": "RV College of Engineering",
+    "slug": "rv-college-of-engineering",
+    "score": 45.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 4.29,
+      "package": 1.18,
+      "naac": 15.0,
+      "facultyRatio": 9.39,
+      "infrastructure": 4.0,
+      "companies": 9.89,
+      "selectivity": 2.17
+    }
+  },
+  {
+    "name": "SR University",
+    "slug": "sr-university",
+    "score": 45.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.93,
+      "package": 0.13,
+      "naac": 7.5,
+      "facultyRatio": 9.85,
+      "infrastructure": 6.0,
+      "companies": 8.2,
+      "selectivity": 8.14
+    }
+  },
+  {
+    "name": "Srishti Manipal Institute of Art",
+    "slug": "srishti-manipal-institute-of-art",
+    "score": 45.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.06,
+      "package": 1.43,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 10.0,
+      "companies": 1.07,
+      "selectivity": 4.47
+    }
+  },
+  {
+    "name": "Presidency University Kolkata",
+    "slug": "presidency-university-kolkata",
+    "score": 45.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.3,
+      "package": 2.83,
+      "naac": 7.5,
+      "facultyRatio": 9.63,
+      "infrastructure": 0.0,
+      "companies": 5.24,
+      "selectivity": 7.84
+    }
+  },
+  {
+    "name": "National Institute of Technology Agartala",
+    "slug": "national-institute-of-technology-agartala",
+    "score": 45.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.21,
+      "package": 1.94,
+      "naac": 7.5,
+      "facultyRatio": 9.85,
+      "infrastructure": 8.0,
+      "companies": 1.5,
+      "selectivity": 9.07
+    }
+  },
+  {
+    "name": "Central University of Rajasthan",
+    "slug": "central-university-of-rajasthan",
+    "score": 44.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.25,
+      "package": 3.08,
+      "naac": 7.5,
+      "facultyRatio": 9.78,
+      "infrastructure": 6.0,
+      "companies": 8.22,
+      "selectivity": 1.04
+    }
+  },
+  {
+    "name": "Tripura University",
+    "slug": "tripura-university",
+    "score": 44.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.42,
+      "package": 1.75,
+      "naac": 3.75,
+      "facultyRatio": 9.95,
+      "infrastructure": 10.0,
+      "companies": 3.26,
+      "selectivity": 6.8
+    }
+  },
+  {
+    "name": "Mizoram University",
+    "slug": "mizoram-university",
+    "score": 44.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.29,
+      "package": 0.01,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 4.0,
+      "companies": 4.71,
+      "selectivity": 9.33
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Palakkad",
+    "slug": "indian-institute-of-technology-palakkad",
+    "score": 44.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.62,
+      "package": 3.0,
+      "naac": 15.0,
+      "facultyRatio": 9.88,
+      "infrastructure": 4.0,
+      "companies": 5.35,
+      "selectivity": 1.67
+    }
+  },
+  {
+    "name": "Shiv Nadar University",
+    "slug": "shiv-nadar-university",
+    "score": 43.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.15,
+      "package": 0.95,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 10.0,
+      "companies": 5.74,
+      "selectivity": 3.74
+    }
+  },
+  {
+    "name": "Kashmir University",
+    "slug": "kashmir-university",
+    "score": 43.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.11,
+      "package": 3.44,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 8.0,
+      "companies": 3.14,
+      "selectivity": 5.8
+    }
+  },
+  {
+    "name": "Loyola College Chennai",
+    "slug": "loyola-college-chennai",
+    "score": 43.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.23,
+      "package": 0.7,
+      "naac": 15.0,
+      "facultyRatio": 7.59,
+      "infrastructure": 10.0,
+      "companies": 1.78,
+      "selectivity": 5.37
+    }
+  },
+  {
+    "name": "Amity University",
+    "slug": "amity-university",
+    "score": 43.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 9.73,
+      "package": 2.29,
+      "naac": 11.25,
+      "facultyRatio": 8.99,
+      "infrastructure": 6.0,
+      "companies": 2.21,
+      "selectivity": 2.99
+    }
+  },
+  {
+    "name": "National Institute of Technology Silchar",
+    "slug": "national-institute-of-technology-silchar",
+    "score": 43.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 0.44,
+      "package": 1.98,
+      "naac": 7.5,
+      "facultyRatio": 9.66,
+      "infrastructure": 8.0,
+      "companies": 9.91,
+      "selectivity": 5.96
+    }
+  },
+  {
+    "name": "Woxsen University",
+    "slug": "woxsen-university",
+    "score": 43.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.32,
+      "package": 1.49,
+      "naac": 7.5,
+      "facultyRatio": 9.66,
+      "infrastructure": 10.0,
+      "companies": 3.89,
+      "selectivity": 7.51
+    }
+  },
+  {
+    "name": "Thapar Institute of Engineering",
+    "slug": "thapar-institute-of-engineering",
+    "score": 42.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.02,
+      "package": 2.47,
+      "naac": 11.25,
+      "facultyRatio": 9.31,
+      "infrastructure": 0.0,
+      "companies": 8.72,
+      "selectivity": 0.0
+    }
+  },
+  {
+    "name": "Plaksha University",
+    "slug": "plaksha-university",
+    "score": 42.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 1.02,
+      "package": 1.52,
+      "naac": 15.0,
+      "facultyRatio": 9.95,
+      "infrastructure": 8.0,
+      "companies": 0.66,
+      "selectivity": 6.66
+    }
+  },
+  {
+    "name": "BMS College of Engineering",
+    "slug": "bms-college-of-engineering",
+    "score": 42.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.89,
+      "package": 3.27,
+      "naac": 11.25,
+      "facultyRatio": 9.63,
+      "infrastructure": 6.0,
+      "companies": 5.69,
+      "selectivity": 2.93
+    }
+  },
+  {
+    "name": "Sambalpur University",
+    "slug": "sambalpur-university",
+    "score": 42.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.67,
+      "package": 2.51,
+      "naac": 0.0,
+      "facultyRatio": 9.88,
+      "infrastructure": 6.0,
+      "companies": 7.4,
+      "selectivity": 7.6
+    }
+  },
+  {
+    "name": "Central University of Haryana",
+    "slug": "central-university-of-haryana",
+    "score": 41.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.19,
+      "package": 2.42,
+      "naac": 3.75,
+      "facultyRatio": 9.51,
+      "infrastructure": 6.0,
+      "companies": 6.63,
+      "selectivity": 5.1
+    }
+  },
+  {
+    "name": "St Xaviers College Mumbai",
+    "slug": "st-xaviers-college-mumbai",
+    "score": 41.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.05,
+      "package": 1.01,
+      "naac": 15.0,
+      "facultyRatio": 8.53,
+      "infrastructure": 4.0,
+      "companies": 9.45,
+      "selectivity": 0.06
+    }
+  },
+  {
+    "name": "National Institute of Technology Meghalaya",
+    "slug": "national-institute-of-technology-meghalaya",
+    "score": 41.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.44,
+      "package": 1.54,
+      "naac": 3.75,
+      "facultyRatio": 9.9,
+      "infrastructure": 6.0,
+      "companies": 3.53,
+      "selectivity": 5.93
+    }
+  },
+  {
+    "name": "Birla Vishvakarma Mahavidyalaya",
+    "slug": "birla-vishvakarma-mahavidyalaya",
+    "score": 40.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.22,
+      "package": 0.78,
+      "naac": 11.25,
+      "facultyRatio": 9.8,
+      "infrastructure": 0.0,
+      "companies": 6.63,
+      "selectivity": 7.1
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "slug": "indian-institute-of-technology-patna",
+    "score": 40.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.45,
+      "package": 2.64,
+      "naac": 7.5,
+      "facultyRatio": 9.88,
+      "infrastructure": 2.0,
+      "companies": 4.63,
+      "selectivity": 5.62
+    }
+  },
+  {
+    "name": "Ashoka University",
+    "slug": "ashoka-university",
+    "score": 40.5,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.98,
+      "package": 1.21,
+      "naac": 7.5,
+      "facultyRatio": 9.29,
+      "infrastructure": 10.0,
+      "companies": 3.28,
+      "selectivity": 5.28
+    }
+  },
+  {
+    "name": "Welcome Group Graduate School of Hotel Administration",
+    "slug": "welcome-group-graduate-school-of-hotel-administration",
+    "score": 40.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.73,
+      "package": 0.77,
+      "naac": 7.5,
+      "facultyRatio": 9.58,
+      "infrastructure": 10.0,
+      "companies": 1.11,
+      "selectivity": 4.53
+    }
+  },
+  {
+    "name": "Kalyani University",
+    "slug": "kalyani-university",
+    "score": 40.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.97,
+      "package": 0.92,
+      "naac": 7.5,
+      "facultyRatio": 9.39,
+      "infrastructure": 6.0,
+      "companies": 6.77,
+      "selectivity": 3.57
+    }
+  },
+  {
+    "name": "Rajiv Gandhi National University of Law",
+    "slug": "rajiv-gandhi-national-university-of-law",
+    "score": 39.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.7,
+      "package": 1.37,
+      "naac": 7.5,
+      "facultyRatio": 10.0,
+      "infrastructure": 2.0,
+      "companies": 6.15,
+      "selectivity": 5.21
+    }
+  },
+  {
+    "name": "Jamia Hamdard",
+    "slug": "jamia-hamdard",
+    "score": 39.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 15.44,
+      "package": 0.56,
+      "naac": 11.25,
+      "facultyRatio": 7.94,
+      "infrastructure": 0.0,
+      "companies": 0.41,
+      "selectivity": 4.23
+    }
+  },
+  {
+    "name": "FLAME University",
+    "slug": "flame-university",
+    "score": 38.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 0.62,
+      "package": 1.26,
+      "naac": 7.5,
+      "facultyRatio": 9.16,
+      "infrastructure": 10.0,
+      "companies": 9.8,
+      "selectivity": 0.43
+    }
+  },
+  {
+    "name": "Rajiv Gandhi University",
+    "slug": "rajiv-gandhi-university",
+    "score": 38.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.55,
+      "package": 2.83,
+      "naac": 0.0,
+      "facultyRatio": 9.73,
+      "infrastructure": 10.0,
+      "companies": 7.43,
+      "selectivity": 2.07
+    }
+  },
+  {
+    "name": "Osmania University",
+    "slug": "osmania-university",
+    "score": 38.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.27,
+      "package": 2.36,
+      "naac": 7.5,
+      "facultyRatio": 2.87,
+      "infrastructure": 4.0,
+      "companies": 6.83,
+      "selectivity": 4.78
+    }
+  },
+  {
+    "name": "Dibrugarh University",
+    "slug": "dibrugarh-university",
+    "score": 38.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 4.38,
+      "package": 2.44,
+      "naac": 3.75,
+      "facultyRatio": 9.85,
+      "infrastructure": 6.0,
+      "companies": 2.26,
+      "selectivity": 9.69
+    }
+  },
+  {
+    "name": "GD Goenka University",
+    "slug": "gd-goenka-university",
+    "score": 38.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.3,
+      "package": 1.61,
+      "naac": 7.5,
+      "facultyRatio": 9.46,
+      "infrastructure": 6.0,
+      "companies": 3.1,
+      "selectivity": 3.08
+    }
+  },
+  {
+    "name": "National Institute of Technology Kurukshetra",
+    "slug": "national-institute-of-technology-kurukshetra",
+    "score": 37.9,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.15,
+      "package": 0.06,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 2.0,
+      "companies": 2.1,
+      "selectivity": 5.28
+    }
+  },
+  {
+    "name": "National Institute of Technology Jamshedpur",
+    "slug": "national-institute-of-technology-jamshedpur",
+    "score": 37.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.49,
+      "package": 1.53,
+      "naac": 7.5,
+      "facultyRatio": 9.85,
+      "infrastructure": 6.0,
+      "companies": 0.52,
+      "selectivity": 6.89
+    }
+  },
+  {
+    "name": "Visva-Bharati University",
+    "slug": "visva-bharati-university",
+    "score": 37.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 12.26,
+      "package": 3.44,
+      "naac": 7.5,
+      "facultyRatio": 9.71,
+      "infrastructure": 0.0,
+      "companies": 0.0,
+      "selectivity": 4.93
+    }
+  },
+  {
+    "name": "Patna University",
+    "slug": "patna-university",
+    "score": 37.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.23,
+      "package": 0.4,
+      "naac": 7.5,
+      "facultyRatio": 9.36,
+      "infrastructure": 4.0,
+      "companies": 9.75,
+      "selectivity": 3.49
+    }
+  },
+  {
+    "name": "Azim Premji University",
+    "slug": "azim-premji-university",
+    "score": 37.6,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 2.57,
+      "package": 1.88,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 8.0,
+      "companies": 2.12,
+      "selectivity": 5.67
+    }
+  },
+  {
+    "name": "National Institute of Technology Raipur",
+    "slug": "national-institute-of-technology-raipur",
+    "score": 37.4,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 3.23,
+      "package": 2.91,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 6.0,
+      "companies": 4.49,
+      "selectivity": 3.36
+    }
+  },
+  {
+    "name": "Central University of Punjab",
+    "slug": "central-university-of-punjab",
+    "score": 37.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 10.0,
+      "package": 1.03,
+      "naac": 3.75,
+      "facultyRatio": 9.8,
+      "infrastructure": 6.0,
+      "companies": 5.58,
+      "selectivity": 1.07
+    }
+  },
+  {
+    "name": "Assam University",
+    "slug": "assam-university",
+    "score": 37.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 5.18,
+      "package": 1.63,
+      "naac": 3.75,
+      "facultyRatio": 9.78,
+      "infrastructure": 8.0,
+      "companies": 5.01,
+      "selectivity": 3.61
+    }
+  },
+  {
+    "name": "Central University of Kerala",
+    "slug": "central-university-of-kerala",
+    "score": 36.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 6.9,
+      "package": 0.94,
+      "naac": 7.5,
+      "facultyRatio": 9.83,
+      "infrastructure": 6.0,
+      "companies": 1.69,
+      "selectivity": 3.89
+    }
+  },
+  {
+    "name": "Tezpur University",
+    "slug": "tezpur-university",
+    "score": 36.8,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 7.17,
+      "package": 2.17,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 8.0,
+      "companies": 0.02,
+      "selectivity": 2.03
+    }
+  },
+  {
+    "name": "New Horizon College of Engineering",
+    "slug": "new-horizon-college-of-engineering",
+    "score": 36.3,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 8.54,
+      "package": 2.12,
+      "naac": 7.5,
+      "facultyRatio": 7.03,
+      "infrastructure": 4.0,
+      "companies": 6.17,
+      "selectivity": 0.96
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "slug": "indian-institute-of-technology-mandi",
+    "score": 36.1,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 4.78,
+      "package": 2.15,
+      "naac": 7.5,
+      "facultyRatio": 9.93,
+      "infrastructure": 2.0,
+      "companies": 7.27,
+      "selectivity": 2.51
+    }
+  },
+  {
+    "name": "Ranchi University",
+    "slug": "ranchi-university",
+    "score": 36.0,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 4.29,
+      "package": 3.44,
+      "naac": 3.75,
+      "facultyRatio": 9.51,
+      "infrastructure": 2.0,
+      "companies": 4.85,
+      "selectivity": 8.17
+    }
+  },
+  {
+    "name": "Nagaland University",
+    "slug": "nagaland-university",
+    "score": 35.7,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 2.17,
+      "package": 2.3,
+      "naac": 3.75,
+      "facultyRatio": 9.98,
+      "infrastructure": 6.0,
+      "companies": 4.47,
+      "selectivity": 7.06
+    }
+  },
+  {
+    "name": "Berhampur University",
+    "slug": "berhampur-university",
+    "score": 35.2,
+    "tier": "Tier 3",
+    "breakdown": {
+      "placement": 11.95,
+      "package": 0.75,
+      "naac": 3.75,
+      "facultyRatio": 9.71,
+      "infrastructure": 2.0,
+      "companies": 5.88,
+      "selectivity": 1.18
+    }
+  },
+  {
+    "name": "Central University of Tamil Nadu",
+    "slug": "central-university-of-tamil-nadu",
+    "score": 34.8,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 3.1,
+      "package": 0.23,
+      "naac": 3.75,
+      "facultyRatio": 9.9,
+      "infrastructure": 2.0,
+      "companies": 7.74,
+      "selectivity": 8.09
+    }
+  },
+  {
+    "name": "Hemvati Nandan Bahuguna Garhwal University",
+    "slug": "hemvati-nandan-bahuguna-garhwal-university",
+    "score": 34.4,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 8.54,
+      "package": 1.08,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 0.0,
+      "companies": 2.89,
+      "selectivity": 4.53
+    }
+  },
+  {
+    "name": "CMR Institute of Technology",
+    "slug": "cmr-institute-of-technology",
+    "score": 32.0,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 7.52,
+      "package": 2.51,
+      "naac": 3.75,
+      "facultyRatio": 9.85,
+      "infrastructure": 4.0,
+      "companies": 2.34,
+      "selectivity": 2.04
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Jodhpur",
+    "slug": "indian-institute-of-technology-jodhpur",
+    "score": 31.7,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 6.28,
+      "package": 0.56,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 0.0,
+      "companies": 4.01,
+      "selectivity": 3.42
+    }
+  },
+  {
+    "name": "Great Lakes Institute of Management",
+    "slug": "great-lakes-institute-of-management",
+    "score": 30.8,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 2.7,
+      "package": 0.33,
+      "naac": 7.5,
+      "facultyRatio": 9.71,
+      "infrastructure": 0.0,
+      "companies": 9.14,
+      "selectivity": 1.42
+    }
+  },
+  {
+    "name": "Sikkim University",
+    "slug": "sikkim-university",
+    "score": 30.8,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 4.96,
+      "package": 0.2,
+      "naac": 3.75,
+      "facultyRatio": 9.8,
+      "infrastructure": 6.0,
+      "companies": 6.02,
+      "selectivity": 0.03
+    }
+  },
+  {
+    "name": "Dhirubhai Ambani Institute",
+    "slug": "dhirubhai-ambani-institute",
+    "score": 30.7,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 0.0,
+      "package": 2.35,
+      "naac": 7.5,
+      "facultyRatio": 9.9,
+      "infrastructure": 6.0,
+      "companies": 1.28,
+      "selectivity": 3.67
+    }
+  },
+  {
+    "name": "Bennett University",
+    "slug": "bennett-university",
+    "score": 29.1,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 1.06,
+      "package": 0.0,
+      "naac": 7.5,
+      "facultyRatio": 9.78,
+      "infrastructure": 0.0,
+      "companies": 7.45,
+      "selectivity": 3.34
+    }
+  },
+  {
+    "name": "Central University of Jharkhand",
+    "slug": "central-university-of-jharkhand",
+    "score": 25.4,
+    "tier": "Tier 4",
+    "breakdown": {
+      "placement": 2.26,
+      "package": 0.24,
+      "naac": 0.0,
+      "facultyRatio": 9.95,
+      "infrastructure": 6.0,
+      "companies": 0.84,
+      "selectivity": 6.07
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "name": "reactcampus",
+  "version": "1.0.0",
+  "description": "Dynamic College Discovery Platform - Backend",
+  "main": "server/src/server.js",
+  "scripts": {
+    "start": "node server/src/server.js",
+    "dev": "nodemon server/src/server.js",
+    "seed": "node server/src/seeds/index.js",
+    "restart": "lsof -i :5050 -t | xargs kill 2>/dev/null; sleep 1 && nodemon server/src/server.js",
+    "dev:all": "npx concurrently -n server,client -c blue,green \"npm run dev\" \"npm --prefix client run dev\""
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^7.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "lru-cache": "^10.4.3",
+    "mongoose": "^8.6.0",
+    "morgan": "^1.10.0",
+    "slugify": "^1.6.6",
+    "uuid": "^10.0.0",
+    "winston": "^3.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

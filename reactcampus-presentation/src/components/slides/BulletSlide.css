@@ -1,0 +1,49 @@
+.bullet-slide {
+  padding: 60px 80px 40px;
+}
+
+.bullet-slide.variant-default {
+  background: var(--bg-secondary);
+}
+
+.bullet-slide.variant-accent {
+  background: var(--ibm-ppt-cream);
+}
+
+.bullet-list {
+  list-style: none;
+  padding: 0;
+  margin: 40px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.bullet-item {
+  font-size: 18pt;
+  font-weight: 400;
+  line-height: 1.6;
+  padding-left: 40px;
+  position: relative;
+  color: var(--text-primary);
+}
+
+.bullet-item::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--ibm-blue-primary);
+  font-weight: 600;
+  font-size: 20pt;
+}
+
+.bullet-item strong {
+  font-weight: 600;
+}
+
+.item-description {
+  font-weight: 300;
+  opacity: 0.9;
+}
+
+/* Made with Bob */

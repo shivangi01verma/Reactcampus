@@ -1,0 +1,284 @@
+═══════════════════════════════════════════════════════════════
+  ReactCampus RBAC Test Report
+  Generated: 2026-02-19T23:48:51.205Z
+  Run ID: mlu43xr8
+═══════════════════════════════════════════════════════════════
+
+┌──────────────────────────────────────────┬────────┬────────┬────────┐
+│ Suite                                    │ Passed │ Failed │ Total  │
+├──────────────────────────────────────────┼────────┼────────┼────────┤
+│ PASS Setup                               │     41 │      0 │     41 │
+│ PASS Role: College Reader (college:read only) │     25 │      0 │     25 │
+│ PASS Role: Lead Manager (read+update+manage+assign) │     17 │      0 │     17 │
+│ PASS Role: Content Editor (colleges+courses+sections+pages+seo) │     34 │      0 │     34 │
+│ PASS Role: Form Admin (forms+submissions+lead-read/export/stats) │     22 │      0 │     22 │
+│ PASS Role: Review Moderator (reviews+discussions read+moderate) │     17 │      0 │     17 │
+│ PASS Role: Dashboard Viewer (dashboard:view+analytics) │     15 │      0 │     15 │
+│ PASS Role: No Permissions (403 on everything) │     26 │      0 │     26 │
+│ PASS Cross-Role Isolation                │     13 │      0 │     13 │
+│ PASS Cleanup                             │     25 │      0 │     25 │
+├──────────────────────────────────────────┼────────┼────────┼────────┤
+│ TOTAL                                    │    235 │      0 │    235 │
+└──────────────────────────────────────────┴────────┴────────┴────────┘
+
+
+DETAILED RESULTS
+─────────────────────────────────────────────────────────────────
+
+── Setup ──
+  ✓ Admin login
+  ✓ Load permissions
+  ✓ Permission map built
+  ✓ Create test college
+  ✓ Create test course
+  ✓ Create test exam
+  ✓ Test lead created
+  ✓ Create role: College Reader Only
+  ✓ Assign 1 perms to College Reader Only
+  ✓ Create user for College Reader Only
+  ✓ Assign role to College Reader Only
+  ✓ Login as College Reader Only
+  ✓ Create role: Lead Manager
+  ✓ Assign 4 perms to Lead Manager
+  ✓ Create user for Lead Manager
+  ✓ Assign role to Lead Manager
+  ✓ Login as Lead Manager
+  ✓ Create role: Content Editor
+  ✓ Assign 16 perms to Content Editor
+  ✓ Create user for Content Editor
+  ✓ Assign role to Content Editor
+  ✓ Login as Content Editor
+  ✓ Create role: Form Admin
+  ✓ Assign 9 perms to Form Admin
+  ✓ Create user for Form Admin
+  ✓ Assign role to Form Admin
+  ✓ Login as Form Admin
+  ✓ Create role: Review Moderator
+  ✓ Assign 4 perms to Review Moderator
+  ✓ Create user for Review Moderator
+  ✓ Assign role to Review Moderator
+  ✓ Login as Review Moderator
+  ✓ Create role: Dashboard Viewer
+  ✓ Assign 2 perms to Dashboard Viewer
+  ✓ Create user for Dashboard Viewer
+  ✓ Assign role to Dashboard Viewer
+  ✓ Login as Dashboard Viewer
+  ✓ Create role: No Permissions
+  ✓ Create user for No Permissions
+  ✓ Assign role to No Permissions
+  ✓ Login as No Permissions
+
+── Role: College Reader (college:read only) ──
+  ✓ ALLOW GET /colleges
+  ✓ ALLOW GET /colleges/:id
+  ✓ DENY  POST /colleges
+  ✓ DENY  PATCH /colleges/:id
+  ✓ DENY  DELETE /colleges/:id
+  ✓ DENY  PATCH /colleges/:id/publish
+  ✓ DENY  PATCH /colleges/:id/courses
+  ✓ DENY  PATCH /colleges/:id/exams
+  ✓ DENY  GET /users
+  ✓ DENY  GET /courses
+  ✓ DENY  GET /exams
+  ✓ DENY  GET /leads
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /reviews
+  ✓ DENY  GET /discussions
+  ✓ DENY  GET /seo
+  ✓ DENY  GET /pages
+  ✓ DENY  GET /dashboard/stats
+  ✓ DENY  GET /site-settings
+  ✓ DENY  GET /categories
+  ✓ DENY  GET /permissions
+  ✓ DENY  GET /roles
+  ✓ DENY  GET /submissions
+  ✓ DENY  GET /leads/stats
+  ✓ DENY  GET /leads/export
+
+── Role: Lead Manager (read+update+manage+assign) ──
+  ✓ ALLOW GET /leads
+  ✓ ALLOW GET /leads/:id
+  ✓ ALLOW PATCH /leads/:id (update)
+  ✓ ALLOW POST /leads/:id/notes
+  ✓ ALLOW PATCH /leads/:id/status
+  ✓ ALLOW PATCH /leads/:id/assign
+  ✓ DENY  POST /leads (create)
+  ✓ DENY  DELETE /leads/:id
+  ✓ DENY  GET /leads/export
+  ✓ DENY  GET /leads/stats
+  ✓ DENY  GET /colleges
+  ✓ DENY  GET /courses
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /users
+  ✓ DENY  GET /reviews
+  ✓ DENY  GET /dashboard/stats
+  ✓ DENY  GET /site-settings
+
+── Role: Content Editor (colleges+courses+sections+pages+seo) ──
+  ✓ ALLOW GET /colleges
+  ✓ ALLOW GET /colleges/:id
+  ✓ ALLOW PATCH /colleges/:id
+  ✓ DENY  POST /colleges
+  ✓ DENY  DELETE /colleges/:id
+  ✓ DENY  PATCH /colleges/:id/publish
+  ✓ ALLOW GET /courses
+  ✓ ALLOW GET /courses/:id
+  ✓ DENY  POST /courses
+  ✓ DENY  PATCH /courses/:id
+  ✓ DENY  DELETE /courses/:id
+  ✓ ALLOW GET /content-sections
+  ✓ ALLOW GET /content-sections/:id
+  ✓ ALLOW POST /content-sections
+  ✓ ALLOW PATCH /content-sections/:id
+  ✓ ALLOW DELETE /content-sections/:id
+  ✓ ALLOW GET /pages
+  ✓ ALLOW GET /pages/:id
+  ✓ ALLOW POST /pages
+  ✓ ALLOW PATCH /pages/:id
+  ✓ ALLOW PATCH /pages/:id/publish
+  ✓ ALLOW DELETE /pages/:id
+  ✓ ALLOW GET /seo
+  ✓ ALLOW GET /seo/:id
+  ✓ ALLOW POST /seo (for course)
+  ✓ ALLOW PATCH /seo/:id
+  ✓ ALLOW DELETE /seo/:id
+  ✓ DENY  GET /leads
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /users
+  ✓ DENY  GET /reviews
+  ✓ DENY  GET /discussions
+  ✓ DENY  GET /dashboard/stats
+  ✓ DENY  GET /site-settings
+
+── Role: Form Admin (forms+submissions+lead-read/export/stats) ──
+  ✓ ALLOW GET /forms
+  ✓ ALLOW GET /forms/:id
+  ✓ ALLOW POST /forms
+  ✓ ALLOW PATCH /forms/:id
+  ✓ ALLOW PATCH /forms/:id/publish
+  ✓ ALLOW PATCH /forms/:id/pages
+  ✓ ALLOW DELETE /forms/:id
+  ✓ ALLOW GET /submissions
+  ✓ ALLOW GET /submissions/:id
+  ✓ ALLOW GET /leads
+  ✓ ALLOW GET /leads/:id
+  ✓ ALLOW GET /leads/export
+  ✓ ALLOW GET /leads/stats
+  ✓ DENY  POST /leads (create)
+  ✓ DENY  PATCH /leads/:id (update)
+  ✓ DENY  DELETE /leads/:id
+  ✓ DENY  PATCH /leads/:id/status
+  ✓ DENY  PATCH /leads/:id/assign
+  ✓ DENY  POST /leads/bulk
+  ✓ DENY  GET /colleges
+  ✓ DENY  GET /users
+  ✓ DENY  GET /dashboard/stats
+
+── Role: Review Moderator (reviews+discussions read+moderate) ──
+  ✓ ALLOW GET /reviews
+  ✓ ALLOW GET /reviews/:id
+  ✓ ALLOW PATCH /reviews/:id/moderate
+  ✓ DENY  DELETE /reviews/:id
+  ✓ ALLOW GET /discussions
+  ✓ ALLOW GET /discussions/:id
+  ✓ ALLOW PATCH /discussions/:id/moderate
+  ✓ DENY  DELETE /discussions/:id
+  ✓ DENY  GET /colleges
+  ✓ DENY  GET /leads
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /users
+  ✓ DENY  GET /courses
+  ✓ DENY  GET /pages
+  ✓ DENY  GET /seo
+  ✓ DENY  GET /dashboard/stats
+  ✓ DENY  GET /site-settings
+
+── Role: Dashboard Viewer (dashboard:view+analytics) ──
+  ✓ ALLOW GET /dashboard/stats
+  ✓ ALLOW GET /dashboard/pipeline
+  ✓ ALLOW GET /dashboard/activity
+  ✓ DENY  GET /colleges
+  ✓ DENY  GET /courses
+  ✓ DENY  GET /leads
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /users
+  ✓ DENY  GET /reviews
+  ✓ DENY  GET /discussions
+  ✓ DENY  GET /seo
+  ✓ DENY  GET /pages
+  ✓ DENY  GET /site-settings
+  ✓ DENY  GET /categories
+  ✓ DENY  GET /submissions
+
+── Role: No Permissions (403 on everything) ──
+  ✓ DENY  GET /colleges
+  ✓ DENY  GET /courses
+  ✓ DENY  GET /exams
+  ✓ DENY  GET /categories
+  ✓ DENY  GET /users
+  ✓ DENY  GET /roles
+  ✓ DENY  GET /permissions
+  ✓ DENY  GET /leads
+  ✓ DENY  GET /leads/stats
+  ✓ DENY  GET /leads/export
+  ✓ DENY  GET /forms
+  ✓ DENY  GET /submissions
+  ✓ DENY  GET /reviews
+  ✓ DENY  GET /discussions
+  ✓ DENY  GET /seo
+  ✓ DENY  GET /pages
+  ✓ DENY  GET /content-sections
+  ✓ DENY  GET /dashboard/stats
+  ✓ DENY  GET /dashboard/pipeline
+  ✓ DENY  GET /dashboard/activity
+  ✓ DENY  GET /site-settings
+  ✓ DENY  POST /colleges
+  ✓ DENY  POST /leads
+  ✓ DENY  POST /forms
+  ✓ DENY  PATCH /colleges/:id
+  ✓ DENY  DELETE /colleges/:id
+
+── Cross-Role Isolation ──
+  ✓ DENY  college_reader → GET /leads
+  ✓ DENY  college_reader → GET /leads/stats
+  ✓ DENY  college_reader → POST /leads/bulk
+  ✓ DENY  lead_manager → GET /colleges
+  ✓ DENY  lead_manager → GET /reviews
+  ✓ DENY  review_mod → GET /leads
+  ✓ DENY  review_mod → PATCH /leads/:id/status
+  ✓ DENY  dashboard_viewer → POST /colleges
+  ✓ DENY  dashboard_viewer → PATCH /leads/:id
+  ✓ DENY  dashboard_viewer → DELETE /reviews/:id
+  ✓ DENY  No token → GET /colleges
+  ✓ DENY  No token → GET /leads
+  ✓ DENY  No token → GET /dashboard/stats
+
+── Cleanup ──
+  ✓ Delete SEO
+  ✓ Delete section
+  ✓ Delete review
+  ✓ Delete discussion
+  ✓ Delete lead
+  ✓ Delete form
+  ✓ Delete page
+  ✓ Delete exam
+  ✓ Delete course
+  ✓ Delete college
+  ✓ Delete category
+  ✓ Delete user college_reader_mlu43xr8
+  ✓ Delete user lead_manager_mlu43xr8
+  ✓ Delete user content_editor_mlu43xr8
+  ✓ Delete user form_admin_mlu43xr8
+  ✓ Delete user review_mod_mlu43xr8
+  ✓ Delete user dashboard_viewer_mlu43xr8
+  ✓ Delete user no_perms_mlu43xr8
+  ✓ Delete role college_reader_mlu43xr8
+  ✓ Delete role lead_manager_mlu43xr8
+  ✓ Delete role content_editor_mlu43xr8
+  ✓ Delete role form_admin_mlu43xr8
+  ✓ Delete role review_mod_mlu43xr8
+  ✓ Delete role dashboard_viewer_mlu43xr8
+  ✓ Delete role no_perms_mlu43xr8
+
+Result: 235/235 passed, 0 failed
+Status: ALL TESTS PASSED
